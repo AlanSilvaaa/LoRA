@@ -1,4 +1,5 @@
 import torch
+import os
 from datasets import load_dataset
 from transformers import (
     AutoTokenizer,
@@ -8,11 +9,10 @@ from transformers import (
 from peft import LoraConfig, get_peft_model
 from trl import SFTConfig, SFTTrainer
 
-from google.colab import userdata
 from huggingface_hub import login
 
 # Log in using the Colab Secret
-login(token='put_token_here!!!')
+login(token=os.environ.get("HF_TOKEN"))
 
 model_id = "google/gemma-2b"
 output_dir = "./gemma-gsm8k-standard-lora"
