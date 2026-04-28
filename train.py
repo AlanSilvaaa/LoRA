@@ -10,20 +10,19 @@ from peft import LoraConfig, get_peft_model
 from trl import SFTConfig, SFTTrainer
 
 from huggingface_hub import login
+from config import MODEL_ID, LORA_DIR
 
 # Log in using the Colab Secret
 login(token=os.environ.get("HF_TOKEN"))
 
-model_id = "google/gemma-2b"
-output_dir = "./gemma-gsm8k-standard-lora"
 dataset = load_dataset("openai/gsm8k", "main")
 
 print("Loading model in bfloat16...")
-tokenizer = AutoTokenizer.from_pretrained(model_id)
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 tokenizer.pad_token = tokenizer.eos_token
 
 model = AutoModelForCausalLM.from_pretrained(
-    model_id,
+    MODEL_ID,
     torch_dtype=torch.bfloat16,
     device_map={"": 0}
 )
@@ -41,7 +40,7 @@ lora_config = LoraConfig(
 )
 
 training_args = SFTConfig(
-    output_dir=output_dir,
+    output_dir=LORA_DIR,
     per_device_train_batch_size=2,
     gradient_accumulation_steps=4,
     optim="adamw_torch",
@@ -65,8 +64,7 @@ trainer = SFTTrainer(
 print("Starting training...")
 trainer.train()
 
-print(f"Saving LoRA adapter to {output_dir}")
-trainer.model.save_pretrained(output_dir)
-tokenizer.save_pretrained(output_dir)
+print(f"Saving LoRA adapter to {LORA_DIR}")
+trainer.model.save_pretrained(LORA_DIR)
+tokenizer.save_pretrained(LORA_DIR)
 print("Done!")
-
