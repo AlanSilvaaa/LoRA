@@ -9,12 +9,14 @@ app = typer.Typer()
 
 @app.command()
 def main(question: str = typer.Argument(..., help="Question to send to the model")):
-    # Formulate the question using the exact formatting from training.
-    # We stop right after 'model\n' so the AI knows it's its turn to talk.
-    prompt = f"<start_of_turn>user\n{question}<end_of_turn>\n<start_of_turn>model\n"
-
     print("Loading base model and tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+    prompt = tokenizer.apply_chat_template(
+        [{"role": "user", "content": question}],
+        tokenize=False,
+        add_generation_prompt=True,
+    )
+
     # Load base model in bfloat16 to fit in memory.
     base_model = AutoModelForCausalLM.from_pretrained(
         MODEL_ID,
@@ -41,12 +43,12 @@ def main(question: str = typer.Argument(..., help="Question to send to the model
 
     # Print results.
     print("\n" + "=" * 50)
-    print("🧐 BASE GEMMA-2B OUTPUT:")
+    print(f"🧐 BASE {MODEL_ID} OUTPUT:")
     print("=" * 50)
     print(base_response)
 
     print("\n" + "=" * 50)
-    print("🚀 LORA FINE-TUNED OUTPUT (500 steps):")
+    print(f"🚀 LORA FINE-TUNED OUTPUT ({LORA_DIR}):")
     print("=" * 50)
     print(ft_response)
 

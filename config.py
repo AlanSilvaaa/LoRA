@@ -1,2 +1,2 @@
-MODEL_ID = "google/gemma-2b"
-LORA_DIR = "./gemma-gsm8k-standard-lora"
+MODEL_ID = "google/gemma-3-7b-it"
+LORA_DIR = "./gemma-3-7b-it-gsm8k-lora"

@@ -28,7 +28,11 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 
 def format_instruction(example):
-    return f"<start_of_turn>user\n{example['question']}<end_of_turn>\n<start_of_turn>model\n{example['answer']}<end_of_turn>"
+    messages = [
+        {"role": "user", "content": example["question"]},
+        {"role": "assistant", "content": example["answer"]},
+    ]
+    return tokenizer.apply_chat_template(messages, tokenize=False)
 
 lora_config = LoraConfig(
     r=16,
