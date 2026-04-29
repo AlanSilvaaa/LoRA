@@ -11,9 +11,11 @@ from trl import SFTConfig, SFTTrainer
 
 from huggingface_hub import login
 from config import MODEL_ID, LORA_DIR
-from helpers.env_utils import load_repo_env
+from helpers.env_utils import load_repo_env, normalize_single_gpu_slurm_env
+
 
 load_repo_env()
+normalize_single_gpu_slurm_env()
 
 # Log in using HF_TOKEN from the environment or repo-local .env.
 login(token=os.environ.get("HF_TOKEN"))
@@ -26,8 +28,7 @@ tokenizer.pad_token = tokenizer.eos_token
 
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
-    torch_dtype=torch.bfloat16,
-    device_map={"": 0}
+    torch_dtype=torch.bfloat16
 )
 
 def format_instruction(example):
@@ -53,7 +54,7 @@ training_args = SFTConfig(
     optim="adamw_torch",
     learning_rate=2e-4,
     lr_scheduler_type="cosine",
-    warmup_ratio=0.03,
+    warmup_steps=50,
     eval_strategy="steps",
     eval_steps=100,
     save_strategy="steps",
