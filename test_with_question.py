@@ -1,8 +1,15 @@
+import os
 import torch
 import typer
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
+from huggingface_hub import login
 from config import MODEL_ID, LORA_DIR
+from helpers.env_utils import load_repo_env
+
+load_repo_env()
+if os.environ.get("HF_TOKEN"):
+    login(token=os.environ.get("HF_TOKEN"))
 
 app = typer.Typer()
 
@@ -43,12 +50,12 @@ def main(question: str = typer.Argument(..., help="Question to send to the model
 
     # Print results.
     print("\n" + "=" * 50)
-    print(f"🧐 BASE {MODEL_ID} OUTPUT:")
+    print(f"BASE {MODEL_ID} OUTPUT:")
     print("=" * 50)
     print(base_response)
 
     print("\n" + "=" * 50)
-    print(f"🚀 LORA FINE-TUNED OUTPUT ({LORA_DIR}):")
+    print(f"LORA FINE-TUNED OUTPUT ({LORA_DIR}):")
     print("=" * 50)
     print(ft_response)
 

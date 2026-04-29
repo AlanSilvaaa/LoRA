@@ -1,18 +1,21 @@
-import torch
 import os
+import torch
 from datasets import load_dataset
 from transformers import (
     AutoTokenizer,
     AutoModelForCausalLM,
-    TrainingArguments
 )
+from transformers.trainer_utils import get_last_checkpoint
 from peft import LoraConfig, get_peft_model
 from trl import SFTConfig, SFTTrainer
 
 from huggingface_hub import login
 from config import MODEL_ID, LORA_DIR
+from helpers.env_utils import load_repo_env
 
-# Log in using the Colab Secret
+load_repo_env()
+
+# Log in using HF_TOKEN from the environment or repo-local .env.
 login(token=os.environ.get("HF_TOKEN"))
 
 dataset = load_dataset("openai/gsm8k", "main")
@@ -50,7 +53,9 @@ training_args = SFTConfig(
     optim="adamw_torch",
     learning_rate=2e-4,
     lr_scheduler_type="cosine",
-    save_strategy="epoch",
+    save_strategy="steps",
+    save_steps=25,
+    save_total_limit=2,
     logging_steps=10,
     num_train_epochs=1,
     max_steps=100, # Initial test, later increase this
@@ -66,7 +71,13 @@ trainer = SFTTrainer(
 )
 
 print("Starting training...")
-trainer.train()
+last_checkpoint = get_last_checkpoint(LORA_DIR)
+
+if last_checkpoint:
+    print(f"Resuming training from checkpoint: {last_checkpoint}")
+    trainer.train(resume_from_checkpoint=last_checkpoint)
+else:
+    trainer.train()
 
 print(f"Saving LoRA adapter to {LORA_DIR}")
 trainer.model.save_pretrained(LORA_DIR)
