@@ -6,8 +6,8 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
 #SBATCH --time=24:00:00
-#SBATCH --output=slurm-%x-%j.out
-#SBATCH --error=slurm-%x-%j.err
+#SBATCH --output=output/slurm-%x-%j.out
+#SBATCH --error=output/slurm-%x-%j.err
 #SBATCH --requeue
 
 set -euo pipefail

@@ -1,7 +1,8 @@
 # Project specifics
-output
+output/*.out
+output/*.err
+checkpoints
 secrets
-gemma-gsm8k-standard-lora/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
