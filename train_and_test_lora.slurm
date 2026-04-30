@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=lora-train
+#SBATCH --job-name=lora-train-and-test
 #SBATCH --partition=L40
 #SBATCH --gpus=1
 #SBATCH --ntasks=1
@@ -43,5 +43,5 @@ srun \
         set -euo pipefail
         python -c "import datasets, transformers, peft, trl, huggingface_hub, accelerate" \
             || python -m pip install --user datasets transformers peft trl huggingface_hub accelerate
-        python -u train.py
+        python -u main.py
     '

@@ -7,15 +7,14 @@ from huggingface_hub import login
 from config import MODEL_ID, LORA_DIR
 from helpers.env_utils import load_repo_env
 
-load_repo_env()
-if os.environ.get("HF_TOKEN"):
-    login(token=os.environ.get("HF_TOKEN"))
-
 app = typer.Typer()
 
 
-@app.command()
-def main(question: str = typer.Argument(..., help="Question to send to the model")):
+def run_question(question: str) -> dict[str, str]:
+    load_repo_env()
+    if os.environ.get("HF_TOKEN"):
+        login(token=os.environ.get("HF_TOKEN"))
+
     print("Loading base model and tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
     prompt = tokenizer.apply_chat_template(
@@ -58,6 +57,17 @@ def main(question: str = typer.Argument(..., help="Question to send to the model
     print(f"LORA FINE-TUNED OUTPUT ({LORA_DIR}):")
     print("=" * 50)
     print(ft_response)
+
+    return {
+        "prompt": question,
+        "base_output": base_response,
+        "finetuned_output": ft_response,
+    }
+
+
+@app.command()
+def main(question: str = typer.Argument(..., help="Question to send to the model")):
+    run_question(question)
 
 
 if __name__ == "__main__":

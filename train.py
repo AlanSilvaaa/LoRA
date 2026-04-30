@@ -6,7 +6,7 @@ from transformers import (
     AutoModelForCausalLM,
 )
 from transformers.trainer_utils import get_last_checkpoint
-from peft import LoraConfig, get_peft_model
+from peft import LoraConfig
 from trl import SFTConfig, SFTTrainer
 
 from huggingface_hub import login
@@ -14,80 +14,85 @@ from config import MODEL_ID, LORA_DIR
 from helpers.env_utils import load_repo_env, normalize_single_gpu_slurm_env
 
 
-load_repo_env()
-normalize_single_gpu_slurm_env()
+def main():
+    load_repo_env()
+    normalize_single_gpu_slurm_env()
 
-# Log in using HF_TOKEN from the environment or repo-local .env.
-login(token=os.environ.get("HF_TOKEN"))
+    # Log in using HF_TOKEN from the environment or repo-local .env.
+    login(token=os.environ.get("HF_TOKEN"))
 
-dataset = load_dataset("openai/gsm8k", "main")
+    dataset = load_dataset("openai/gsm8k", "main")
 
-print("Loading model in bfloat16...")
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-tokenizer.pad_token = tokenizer.eos_token
+    print("Loading model in bfloat16...")
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+    tokenizer.pad_token = tokenizer.eos_token
 
-model = AutoModelForCausalLM.from_pretrained(
-    MODEL_ID,
-    dtype=torch.bfloat16
-)
+    model = AutoModelForCausalLM.from_pretrained(
+        MODEL_ID,
+        dtype=torch.bfloat16,
+    )
 
-def format_instruction(example):
-    messages = [
-        {"role": "user", "content": example["question"]},
-        {"role": "assistant", "content": example["answer"]},
-    ]
-    return tokenizer.apply_chat_template(messages, tokenize=False)
+    def format_instruction(example):
+        messages = [
+            {"role": "user", "content": example["question"]},
+            {"role": "assistant", "content": example["answer"]},
+        ]
+        return tokenizer.apply_chat_template(messages, tokenize=False)
 
-lora_config = LoraConfig(
-    r=16,
-    lora_alpha=32,
-    target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-    lora_dropout=0.05,
-    bias="none",
-    task_type="CAUSAL_LM"
-)
+    lora_config = LoraConfig(
+        r=16,
+        lora_alpha=32,
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        lora_dropout=0.05,
+        bias="none",
+        task_type="CAUSAL_LM",
+    )
 
-training_args = SFTConfig(
-    output_dir=LORA_DIR,
-    per_device_train_batch_size=2,
-    gradient_accumulation_steps=4,
-    optim="adamw_torch",
-    learning_rate=2e-4,
-    lr_scheduler_type="cosine",
-    warmup_steps=50,
-    eval_strategy="steps",
-    eval_steps=100,
-    save_strategy="steps",
-    save_steps=100,
-    save_total_limit=5,
-    logging_steps=10,
-    num_train_epochs=3,
-    load_best_model_at_end=True,
-    metric_for_best_model="eval_loss",
-    greater_is_better=False,
-    bf16=True,
-)
+    training_args = SFTConfig(
+        output_dir=LORA_DIR,
+        per_device_train_batch_size=2,
+        gradient_accumulation_steps=4,
+        optim="adamw_torch",
+        learning_rate=2e-4,
+        lr_scheduler_type="cosine",
+        warmup_steps=50,
+        eval_strategy="steps",
+        eval_steps=100,
+        save_strategy="steps",
+        save_steps=100,
+        save_total_limit=5,
+        logging_steps=10,
+        num_train_epochs=3,
+        load_best_model_at_end=True,
+        metric_for_best_model="eval_loss",
+        greater_is_better=False,
+        bf16=True,
+    )
 
-trainer = SFTTrainer(
-    model=model,
-    train_dataset=dataset["train"],
-    eval_dataset=dataset["test"],
-    peft_config=lora_config,
-    formatting_func=format_instruction,
-    processing_class=tokenizer,
-    args=training_args,
-)
+    trainer = SFTTrainer(
+        model=model,
+        train_dataset=dataset["train"],
+        eval_dataset=dataset["test"],
+        peft_config=lora_config,
+        formatting_func=format_instruction,
+        processing_class=tokenizer,
+        args=training_args,
+    )
 
-print("Starting training...")
-last_checkpoint = get_last_checkpoint(LORA_DIR)
+    print("Starting training...")
+    last_checkpoint = get_last_checkpoint(LORA_DIR)
 
-if last_checkpoint:
-    print(f"Resuming training from checkpoint: {last_checkpoint}")
-    trainer.train(resume_from_checkpoint=last_checkpoint)
-else:
-    trainer.train()
+    if last_checkpoint:
+        print(f"Resuming training from checkpoint: {last_checkpoint}")
+        trainer.train(resume_from_checkpoint=last_checkpoint)
+    else:
+        trainer.train()
 
-print(f"Saving LoRA adapter to {LORA_DIR}")
-trainer.model.save_pretrained(LORA_DIR)
-tokenizer.save_pretrained(LORA_DIR)
-print("Done!")
+    print(f"Saving LoRA adapter to {LORA_DIR}")
+    trainer.model.save_pretrained(LORA_DIR)
+    tokenizer.save_pretrained(LORA_DIR)
+    print("Done!")
+
+
+if __name__ == "__main__":
+    main()
