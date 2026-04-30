@@ -28,7 +28,7 @@ tokenizer.pad_token = tokenizer.eos_token
 
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
-    torch_dtype=torch.bfloat16
+    dtype=torch.bfloat16
 )
 
 def format_instruction(example):
@@ -74,6 +74,7 @@ trainer = SFTTrainer(
     eval_dataset=dataset["test"],
     peft_config=lora_config,
     formatting_func=format_instruction,
+    processing_class=tokenizer,
     args=training_args,
 )
 
