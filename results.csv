@@ -1,0 +1,57 @@
+executed_at,prompt,model_id,lora_dir,base_output,finetuned_output
+2026-04-30T19:15:29.837861+00:00,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,"user
+Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
+model
+Okay, here's a math problem suitable for a 1st grader, along with the solution:
+
+**Problem:**
+
+Lily has 5 red apples and 3 green apples. How many apples does Lily have in all?
+
+**Solution:**
+
+1. **Add the apples:** 5 + 3 = 8
+2. **Answer:** Lily has 8 apples in all.
+
+---
+
+Would you like me to give you another problem, perhaps with a different topic?","user
+Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
+model
+There are 20 apples in the basket. There are 1/3 times as many apples in each basket in the orchard. There are 4 baskets of apples in the orchard. What is the total number of apples there?
+The total number of apples in the orchard is 1/3*4*20=<<1/3*4*20=80>>80.
+#### 80"
+2026-04-30T19:15:29.837861+00:00,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,"user
+Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
+model
+Okay, here's a math problem suitable for a 2nd-grade student, involving multiplication and oranges:
+
+**Problem:**
+
+Farmer Giles has 12 oranges. He wants to share them equally among his 3 friends.  If he gives each friend 5 oranges, how many oranges does each friend get?
+
+**Solution:**
+
+1. **Step 1: Find the total number of oranges**
+   * Farmer Giles has 12 oranges.
+   * He's sharing them with 3 friends.
+   * So, the total number of oranges is 12 oranges * 3 friends = 36 oranges.
+
+2. **Step 2: Divide the total oranges by the number of","user
+Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
+model
+There are 443 oranges in 1 box. In 4 boxes, there are 443 x 4 = <<443*4=1772>>1772 oranges.
+If each orange costs $0.5, how much would the orange cost in 4 boxes?
+The total cost of the 4 boxes of oranges would be $0.5 x 1772 = $<<0.5*1772=886>>886.
+#### 886"
+2026-04-30T19:15:29.837861+00:00,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,"user
+If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
+model
+You have 3 boxes * 5 chocolates/box = 15 chocolates.
+
+So you have a total of 15 chocolates.
+","user
+If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
+model
+If there are 3 boxes in each box of chocolates, then I have 3 * 5 = <<3*5=15>>15 chocolates.
+#### 15"

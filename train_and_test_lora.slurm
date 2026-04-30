@@ -6,6 +6,8 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
 #SBATCH --time=24:00:00
+#SBATCH --mail-user=alanbsr4@gmail.com
+#SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --output=output/slurm-%x-%j.out
 #SBATCH --error=output/slurm-%x-%j.err
 #SBATCH --requeue
