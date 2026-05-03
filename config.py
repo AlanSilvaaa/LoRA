@@ -12,6 +12,10 @@ TESTING_PROMPS = [
     "Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.",
     "Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.",
     "If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",
+    "Create a math problem where the answer is 24, suitable for a 3rd grade student.",
+    "Create a division word problem about sharing cookies equally for a 2nd grade student.",
+    "Create a two-step word problem involving addition and subtraction for a 3rd grade student.",
+    "Give me a percentage word problem about a discount at a store for a 6th grade student."
 ]
 
 LORA_CONFIG = {
