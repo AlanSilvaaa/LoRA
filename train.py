@@ -74,11 +74,7 @@ def main():
     tokenizer.save_pretrained(LORA_DIR)
 
     print("Measuring overfitting...")
-    overfitting_metrics = measure_overfitting(
-        trainer=trainer,
-        train_dataset=train_dataset,
-        validation_dataset=validation_dataset,
-    )
+    overfitting_metrics = measure_overfitting(trainer=trainer)
     print("Done!")
     return overfitting_metrics
 

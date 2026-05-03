@@ -15,20 +15,23 @@ def _overfit_level(loss_gap: float) -> str:
 
 def measure_overfitting(
     trainer: Any,
-    train_dataset: Any,
-    validation_dataset: Any,
     train_eval_sample_size: int = TRAIN_EVAL_SAMPLE_SIZE,
 ) -> dict[str, str | float | int]:
     """
-    Measure overfitting by comparing the loss on a sample of the training data to the loss on the validation data.
+    Measure overfitting on the datasets already prepared by SFTTrainer.
+
+    SFTTrainer formats and tokenizes train/eval datasets during initialization. Reusing
+    those prepared datasets avoids evaluating raw GSM8K question/answer columns.
+
     Args:
         trainer: The SFTTrainer instance used for training.
-        train_dataset: The training dataset.
-        validation_dataset: The validation dataset.
         train_eval_sample_size: The number of samples from the training dataset to use for evaluation.
     Returns:
         A dictionary containing the training evaluation loss, validation loss, loss gap, overfitting level, and other relevant metrics.
     """
+    train_dataset = trainer.train_dataset
+    validation_dataset = trainer.eval_dataset
+
     sample_size = min(train_eval_sample_size, len(train_dataset))
     train_eval_dataset = train_dataset.select(range(sample_size))
 
