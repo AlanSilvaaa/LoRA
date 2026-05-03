@@ -1,8 +1,8 @@
-MODEL_ID = "google/gemma-3-270m-it"
-LORA_DIR = "./checkpoints/gemma-3-270m-it-gsm8k-lora"
+# MODEL_ID = "google/gemma-3-270m-it"
+# LORA_DIR = "./checkpoints/gemma-3-270m-it-gsm8k-lora"
 
-# MODEL_ID = "google/gemma-3-1b-it"
-# LORA_DIR = "./checkpoints/gemma-3-1b-it-gsm8k-lora"
+MODEL_ID = "google/gemma-3-1b-it"
+LORA_DIR = "./checkpoints/gemma-3-1b/gemma-3-1b-it-r8"
 
 # MODEL_ID = "google/gemma-3-12b-it"
 # LORA_DIR = "./checkpoints/gemma-3-12b-it-gsm8k-lora"
@@ -19,7 +19,7 @@ TESTING_PROMPS = [
 ]
 
 LORA_CONFIG = {
-    "r": 16,
+    "r": 8,
     "lora_alpha": 32,
     "target_modules": [
         "q_proj",
