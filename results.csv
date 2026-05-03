@@ -1,5 +1,5 @@
-executed_at,prompt,model_id,lora_dir,lora_r,lora_alpha,lora_dropout,learning_rate,num_train_epochs,per_device_train_batch_size,gradient_accumulation_steps,max_new_tokens,train_eval_loss,validation_loss,overfit_loss_gap,overfit_ppl_ratio,overfit_level,overfit_eval_dataset,train_eval_sample_size,base_output,finetuned_output
-2026-04-30T19:15:29.837861+00:00,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,,,,,,,,,,,,,,,,"user
+executed_at,model_id,lora_dir,prompt,base_output,finetuned_output,lora_r,lora_alpha,lora_dropout,learning_rate,num_train_epochs,per_device_train_batch_size,gradient_accumulation_steps,max_new_tokens,train_eval_loss,validation_loss,overfit_loss_gap,overfit_ppl_ratio,overfit_level,overfit_eval_dataset,train_eval_sample_size
+2026-04-30T19:15:29.837861+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,"user
 Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
 model
 Okay, here's a math problem suitable for a 1st grader, along with the solution:
@@ -20,8 +20,8 @@ Give me a math problem that involves addition and apples for kids of 1st grade. 
 model
 There are 20 apples in the basket. There are 1/3 times as many apples in each basket in the orchard. There are 4 baskets of apples in the orchard. What is the total number of apples there?
 The total number of apples in the orchard is 1/3*4*20=<<1/3*4*20=80>>80.
-#### 80"
-2026-04-30T19:15:29.837861+00:00,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,,,,,,,,,,,,,,,,"user
+#### 80",,,,,,,,,,,,,,,
+2026-04-30T19:15:29.837861+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,"user
 Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
 model
 Okay, here's a math problem suitable for a 2nd-grade student, involving multiplication and oranges:
@@ -43,8 +43,8 @@ model
 There are 443 oranges in 1 box. In 4 boxes, there are 443 x 4 = <<443*4=1772>>1772 oranges.
 If each orange costs $0.5, how much would the orange cost in 4 boxes?
 The total cost of the 4 boxes of oranges would be $0.5 x 1772 = $<<0.5*1772=886>>886.
-#### 886"
-2026-04-30T19:15:29.837861+00:00,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,,,,,,,,,,,,,,,,"user
+#### 886",,,,,,,,,,,,,,,
+2026-04-30T19:15:29.837861+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b-it-gsm8k-lora,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?","user
 If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
 model
 You have 3 boxes * 5 chocolates/box = 15 chocolates.
@@ -54,8 +54,8 @@ So you have a total of 15 chocolates.
 If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
 model
 If there are 3 boxes in each box of chocolates, then I have 3 * 5 = <<3*5=15>>15 chocolates.
-#### 15"
-2026-05-02T22:59:08.061333+00:00,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,,,,,,,,,,,,,,,,"user
+#### 15",,,,,,,,,,,,,,,
+2026-05-02T22:59:08.061333+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,"user
 Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
 model
 Okay, here's a math problem involving addition and apples for 1st graders:
@@ -75,8 +75,8 @@ We can write the equation, B = 2*C + 5
 We can also write the equation, B = 1*D + 4
 Substituting the first two equations into the third equation, we get B = D + 4
 So far, the equation that gives you the total number of fruits is D = 41/4
-Since B = 2*C + 5, the equation we have to evaluate tells us is also equal to the total number of fruits that 2.5 grapes."
-2026-05-02T22:59:08.061333+00:00,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,,,,,,,,,,,,,,,,"user
+Since B = 2*C + 5, the equation we have to evaluate tells us is also equal to the total number of fruits that 2.5 grapes.",,,,,,,,,,,,,,,
+2026-05-02T22:59:08.061333+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,"user
 Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
 model
 Okay, here's a math problem for 2nd-grade students about multiplication and oranges:
@@ -92,8 +92,8 @@ model
 Let's first do this by multiplying all the oranges together, so 6 oranges * 1 orange = <<6*1=6>>6 oranges
 Next, we multiply that amount by 2 to find out how many kids are in 2nd grade, so 6 oranges/ kid * 2 kids = <<6*2=12>>12 kids
 Now let's find out how many kids in 2nd grade are there by dividing 2nd grade by 2nd grade each and 12 kids each to find the total number of kids: 12 kids / 2nd grade/kid = <<12/2=6>>6 kids
-Then, we convert 12 kids"
-2026-05-02T22:59:08.061333+00:00,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,,,,,,,,,,,,,,,,"user
+Then, we convert 12 kids",,,,,,,,,,,,,,,
+2026-05-02T22:59:08.061333+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?","user
 If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
 model
 You have 3 boxes of chocolates.
@@ -102,8 +102,8 @@ If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolat
 model
 I have 2 * 3 boxes = <<2*3=6>>6 boxes
 I have 6 boxes * 5 chocolates = <<6*5=30>>30 chocolates
-#### 30"
-2026-05-03T20:58:04.180628+00:00,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+#### 30",,,,,,,,,,,,,,,
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,"user
 Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
 model
 Okay, here's a math problem involving addition and apples:
@@ -127,8 +127,8 @@ We know that the sum of the two problems is 12 and that 2 apples equals 6.
 There are 2*1 = <<2*1=2>>2 problems for 1st grade kids.
 To meet our criteria we need 12-2 = <<12-2=10>>10 apples
 To have 10 apples we need to sell 10*3 = <<10*3=30>>30 apples
-#### 30"
-2026-05-03T20:58:04.180628+00:00,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+#### 30",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,"user
 Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
 model
 Okay, here's a math problem involving multiplication and oranges for 2nd grade:
@@ -144,8 +144,8 @@ model
 First find the number of oranges that are not being added: 25 - 1 = <<25-1=24>>24
 Then multiply that number by the number of oranges to find the total number of oranges: 24 * 2 = <<24*2=48>>48
 Then divide the number of oranges by the number of oranges added to find the total number of oranges: 48 / 2 = <<48/2=24>>24
-#### 24"
-2026-05-03T20:58:04.180628+00:00,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+#### 24",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?","user
 If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
 model
 You have 3 boxes of chocolates and each box has 5 chocolates.
@@ -160,8 +160,8 @@ There are a total of 3 × 5 = <<3*5=15>>15 chocolates in each box.
 Thus, there are a total of 15 × 3 = <<15*3=45>>45 chocolates in each box.
 Therefore, there are a total of 45 × 3 = <<45*3=135>>135 chocolates in each box.
 Hence, there are 135 × 4 = <<135*4=540>>540 chocolates in each box.
-Therefore, there are a total of 540 × 3 = <<540*3=1620>>"
-2026-05-03T20:58:04.180628+00:00,"Create a math problem where the answer is 24, suitable for a 3rd grade student.",google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+Therefore, there are a total of 540 × 3 = <<540*3=1620>>",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,"Create a math problem where the answer is 24, suitable for a 3rd grade student.","user
 Create a math problem where the answer is 24, suitable for a 3rd grade student.
 model
 Okay, here's a math problem designed for a 3rd grader to solve:
@@ -173,8 +173,8 @@ Sarah is building a tower with blocks. She has 12 blocks. She wants to build a t
 Create a math problem where the answer is 24, suitable for a 3rd grade student.
 model
 If 19 + 7 = <<19+7=26>>26 is divisible by 3, and 24 is divisible by 3, then each number is divisible by 3, which is equal to 9. Then 24 equals 9, and hence the answer is equal to 24.
-#### 24"
-2026-05-03T20:58:04.180628+00:00,Create a division word problem about sharing cookies equally for a 2nd grade student.,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+#### 24",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,Create a division word problem about sharing cookies equally for a 2nd grade student.,"user
 Create a division word problem about sharing cookies equally for a 2nd grade student.
 model
 Okay, here's a division word problem about sharing cookies equally for a 2nd-grade student:
@@ -193,8 +193,8 @@ Each student gets 5 cookies each for the day because 2 x 5 = <<2*5=10>>10
 There are 8 students in class because 10 divided by 2 equals <<10/2=5>>5
 There are 25 cookies in total because 8 + 5 = <<8+5=13>>13
 The student shares the cookies equally because 13 divided by 2 equals 6
-#### 6"
-2026-05-03T20:58:04.180628+00:00,Create a two-step word problem involving addition and subtraction for a 3rd grade student.,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+#### 6",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,Create a two-step word problem involving addition and subtraction for a 3rd grade student.,"user
 Create a two-step word problem involving addition and subtraction for a 3rd grade student.
 model
 Okay, here's a two-step word problem for a 3rd-grade student:
@@ -210,8 +210,8 @@ Maria is baking a cake for a party. She wants to make her cake as big as she can
 ","user
 Create a two-step word problem involving addition and subtraction for a 3rd grade student.
 model
-You will be asked to add 35 to the number of apples in the bunch and divide it by two. Then add 27 to the resulting number of apples and divide it by 2. Then multiply 25 by two to find 5. Then add 18 to the resulting number of apples to find the sum. Finally, add the number of each fruit to find the total number of fruits in the bunch. Finally, add the total number of fruits to find the sum of all the fruits. Finally, add the sum of the apples and the fruits to find the sum of all the fruits. Finally, add the sum of all the apples and the fruits to find the sum of all the fruits. Finally, add the"
-2026-05-03T20:58:04.180628+00:00,Give me a percentage word problem about a discount at a store for a 6th grade student.,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512,"user
+You will be asked to add 35 to the number of apples in the bunch and divide it by two. Then add 27 to the resulting number of apples and divide it by 2. Then multiply 25 by two to find 5. Then add 18 to the resulting number of apples to find the sum. Finally, add the number of each fruit to find the total number of fruits in the bunch. Finally, add the total number of fruits to find the sum of all the fruits. Finally, add the sum of the apples and the fruits to find the sum of all the fruits. Finally, add the sum of all the apples and the fruits to find the sum of all the fruits. Finally, add the",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T20:58:04.180628+00:00,google/gemma-3-270m-it,./checkpoints/gemma-3-270m-it-gsm8k-lora,Give me a percentage word problem about a discount at a store for a 6th grade student.,"user
 Give me a percentage word problem about a discount at a store for a 6th grade student.
 model
 Okay, here's a percentage word problem related to a discount at a store:
@@ -225,4 +225,4 @@ Give me a percentage word problem about a discount at a store for a 6th grade st
 model
 The discount is 100%. Since the student needs a 6th grade grade like 100%, he must have 100% - 100% = 0% of 100% of 100% = 0.
 The student needs 0.60 dollars to pay off the discount, so 0.60/100 = 0.60 * 100% = 60%.
-#### 60"
+#### 60",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
