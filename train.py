@@ -10,8 +10,9 @@ from peft import LoraConfig
 from trl import SFTConfig, SFTTrainer
 
 from huggingface_hub import login
-from config import MODEL_ID, LORA_DIR
+from config import LORA_CONFIG, LORA_DIR, MODEL_ID, TRAINING_CONFIG
 from helpers.env_utils import load_repo_env, normalize_single_gpu_slurm_env
+from helpers.test_overfitting import measure_overfitting
 
 
 def main():
@@ -22,6 +23,9 @@ def main():
     login(token=os.environ.get("HF_TOKEN"))
 
     dataset = load_dataset("openai/gsm8k", "main")
+    train_validation_split = dataset["train"].train_test_split(test_size=0.1, seed=42)
+    train_dataset = train_validation_split["train"]
+    validation_dataset = train_validation_split["test"]
 
     print("Loading model in bfloat16...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
@@ -39,40 +43,17 @@ def main():
         ]
         return tokenizer.apply_chat_template(messages, tokenize=False)
 
-    lora_config = LoraConfig(
-        r=16,
-        lora_alpha=32,
-        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-        lora_dropout=0.05,
-        bias="none",
-        task_type="CAUSAL_LM",
-    )
+    lora_config = LoraConfig(**LORA_CONFIG)
 
     training_args = SFTConfig(
         output_dir=LORA_DIR,
-        per_device_train_batch_size=2,
-        gradient_accumulation_steps=4,
-        optim="adamw_torch",
-        learning_rate=2e-4,
-        lr_scheduler_type="cosine",
-        warmup_steps=50,
-        eval_strategy="steps",
-        eval_steps=100,
-        save_strategy="steps",
-        save_steps=100,
-        save_total_limit=5,
-        logging_steps=10,
-        num_train_epochs=3,
-        load_best_model_at_end=True,
-        metric_for_best_model="eval_loss",
-        greater_is_better=False,
-        bf16=True,
+        **TRAINING_CONFIG,
     )
 
     trainer = SFTTrainer(
         model=model,
-        train_dataset=dataset["train"],
-        eval_dataset=dataset["test"],
+        train_dataset=train_dataset,
+        eval_dataset=validation_dataset,
         peft_config=lora_config,
         formatting_func=format_instruction,
         processing_class=tokenizer,
@@ -91,7 +72,15 @@ def main():
     print(f"Saving LoRA adapter to {LORA_DIR}")
     trainer.model.save_pretrained(LORA_DIR)
     tokenizer.save_pretrained(LORA_DIR)
+
+    print("Measuring overfitting...")
+    overfitting_metrics = measure_overfitting(
+        trainer=trainer,
+        train_dataset=train_dataset,
+        validation_dataset=validation_dataset,
+    )
     print("Done!")
+    return overfitting_metrics
 
 
 if __name__ == "__main__":

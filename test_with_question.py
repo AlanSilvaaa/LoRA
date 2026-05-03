@@ -4,7 +4,7 @@ import typer
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 from huggingface_hub import login
-from config import MODEL_ID, LORA_DIR
+from config import DECODING_CONFIG, LORA_DIR, MODEL_ID
 from helpers.env_utils import load_repo_env
 
 app = typer.Typer()
@@ -35,7 +35,7 @@ def run_question(question: str) -> dict[str, str]:
 
     # Test the base model.
     print("\nGenerating with BASE model (this might take a few seconds)...")
-    base_outputs = base_model.generate(**inputs, max_new_tokens=150)
+    base_outputs = base_model.generate(**inputs, **DECODING_CONFIG)
     base_response = tokenizer.decode(base_outputs[0], skip_special_tokens=True)
 
     # Inject the LoRA adapter.
@@ -44,7 +44,7 @@ def run_question(question: str) -> dict[str, str]:
 
     # Test the fine-tuned model.
     print("Generating with FINE-TUNED model...")
-    ft_outputs = finetuned_model.generate(**inputs, max_new_tokens=150)
+    ft_outputs = finetuned_model.generate(**inputs, **DECODING_CONFIG)
     ft_response = tokenizer.decode(ft_outputs[0], skip_special_tokens=True)
 
     # Print results.
