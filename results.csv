@@ -55,3 +55,51 @@ If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolat
 model
 If there are 3 boxes in each box of chocolates, then I have 3 * 5 = <<3*5=15>>15 chocolates.
 #### 15"
+2026-05-02T22:59:08.061333+00:00,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,"user
+Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
+model
+Okay, here's a math problem involving addition and apples for 1st graders:
+
+**Problem:**
+
+Sarah has 12 apples. She wants to share them equally with her 4 friends. How many apples does each friend get?
+
+**Answer:**
+
+Each friend gets 12 apples.
+","user
+Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
+model
+Let A = number of apples, B = number of oranges, C = number of bananas, and D = number of berries. We know that A + B + C + D = 41
+We can write the equation, B = 2*C + 5
+We can also write the equation, B = 1*D + 4
+Substituting the first two equations into the third equation, we get B = D + 4
+So far, the equation that gives you the total number of fruits is D = 41/4
+Since B = 2*C + 5, the equation we have to evaluate tells us is also equal to the total number of fruits that 2.5 grapes."
+2026-05-02T22:59:08.061333+00:00,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,"user
+Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
+model
+Okay, here's a math problem for 2nd-grade students about multiplication and oranges:
+
+**Problem:**
+
+A farmer has 3 oranges. He wants to divide them equally among 5 students. How many oranges will he have in total?
+
+**Answer:** 8
+","user
+Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
+model
+Let's first do this by multiplying all the oranges together, so 6 oranges * 1 orange = <<6*1=6>>6 oranges
+Next, we multiply that amount by 2 to find out how many kids are in 2nd grade, so 6 oranges/ kid * 2 kids = <<6*2=12>>12 kids
+Now let's find out how many kids in 2nd grade are there by dividing 2nd grade by 2nd grade each and 12 kids each to find the total number of kids: 12 kids / 2nd grade/kid = <<12/2=6>>6 kids
+Then, we convert 12 kids"
+2026-05-02T22:59:08.061333+00:00,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",google/gemma-3-270m-it,./checkpoints/gemma-3-270-it-gsm8k-lora,"user
+If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
+model
+You have 3 boxes of chocolates.
+","user
+If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
+model
+I have 2 * 3 boxes = <<2*3=6>>6 boxes
+I have 6 boxes * 5 chocolates = <<6*5=30>>30 chocolates
+#### 30"
