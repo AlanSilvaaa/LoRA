@@ -226,3 +226,142 @@ model
 The discount is 100%. Since the student needs a 6th grade grade like 100%, he must have 100% - 100% = 0% of 100% of 100% = 0.
 The student needs 0.60 dollars to pay off the discount, so 0.60/100 = 0.60 * 100% = 60%.
 #### 60",16,32,0.05,0.0002,3,2,4,150,0.8733798265457153,1.0179107189178467,0.14453089237213135,1.1554973904677737,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.,"user
+Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
+model
+Okay, here's a math problem suitable for a 1st-grade student, along with the solution:
+
+**Problem:**
+
+Farmer McGregor has 12 apples. He gives 5 apples to his friend, Ben. Then he buys 3 more apples. How many apples does Farmer McGregor have now?
+
+**Solution:**
+
+1. **Start with the initial number:** Farmer McGregor starts with 12 apples.
+2. **Subtract the apples given to Ben:** Farmer McGregor gives away 5 apples, so he has 12 - 5 = 7 apples.
+3. **Add the new apples:** He buys 3 more apples, so he has 7 + 3 = 10 apples.","user
+Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.
+model
+Each apple weighs 1.1 pounds. If there were 6 apples left after you had 150 pounds of apples then the 150 pounds was 1.1*6=<<6*1.1=6.6>>6.6 pounds of apples.
+If each of the apples weigh 1.1 pounds then 150 pounds of apples was 150/1.1=<<150/1.1=142>>142 pounds of apples.
+#### 142",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.,"user
+Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
+model
+Okay, here’s a multiplication problem suitable for a 2nd-grade student, along with the solution:
+
+**Problem:**
+
+Tom wants to make orange juice for his friends. He has 8 oranges and he wants to share them equally with 4 friends. How many oranges will each friend get?
+
+**Solution:**
+
+1. **Find the total number of oranges:** Tom has 8 oranges.
+2. **Divide:** He wants to share them with 4 friends, so we need to divide the total number of oranges by the number of friends: 8 oranges / 4 friends = 2 oranges per friend.
+
+**Answer:** Each friend will get 2 oranges.
+
+---
+
+**Do you want to","user
+Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.
+model
+Five oranges cost $1.5 and 8 oranges cost $3. How many oranges are less than $4?",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,"If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?","user
+If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
+model
+You have a total of 15 chocolates.
+
+3 boxes * 5 chocolates/box = 15 chocolates
+","user
+If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?
+model
+1 box has 3 boxes * 5 chocolates per box = <<3*5=15>>15 chocolates.
+You have a total of 3 boxes + 15 chocolates = <<3+15=18>>18 chocolates
+#### 18",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,"Create a math problem where the answer is 24, suitable for a 3rd grade student.","user
+Create a math problem where the answer is 24, suitable for a 3rd grade student.
+model
+Okay, here's a math problem suitable for a 3rd-grade student, with the answer being 24:
+
+**Problem:**
+
+Sarah has 12 stickers and she gives 5 stickers to her friend, Ben. Then she buys 3 more stickers. How many stickers does Sarah have now?
+
+**Answer:** 24
+
+**Why it's good for a 3rd grader:**
+
+*   **Simple Concept:** It involves addition and subtraction.
+*   **Relatable:** Stickers are a common, understandable concept.
+*   **Clear Steps:** It has a clear sequence of events (starts with, then gives, then buys).
+*   **Easy to Visualize:**  Students can easily","user
+Create a math problem where the answer is 24, suitable for a 3rd grade student.
+model
+A farmer has 30 chickens. The farmer sells half of his chickens for $1 each and the rest for $2 each. He decides to sell his remaining chickens at a new price. How many more dollars does he get in total for each chicken? (You can approximate 100 for this.)",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,Create a division word problem about sharing cookies equally for a 2nd grade student.,"user
+Create a division word problem about sharing cookies equally for a 2nd grade student.
+model
+Okay, here's a division word problem suitable for a 2nd-grade student, with a little extra challenge:
+
+**Problem:**
+
+Lily baked 36 delicious chocolate chip cookies! She wants to share them equally between her 4 friends. How many cookies will each friend get?
+
+**Bonus Challenge:**
+
+Lily also wants to make a small batch of cookies for her family!  If she wants to make 6 batches of cookies, how many cookies will she need in total? 
+
+---
+
+**Why this works for a 2nd grader:**
+
+*   **Clear and Simple:** The problem is easy to understand with a clear scenario.
+*   **Real-World Context:** Sharing cookies is relatable to their","user
+Create a division word problem about sharing cookies equally for a 2nd grade student.
+model
+Each of four students will have 26 cookies, and there are 16 cookies in a bag, so each student gets 26/16 = <<26/16=1.625>>1.625 cookies.
+Each student will share the remainder of the cookies with 1 or more of their 3 friends, so 16 - 26 - 1.625 = 1.625 cookies are leftover.
+#### 1.625",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,Create a two-step word problem involving addition and subtraction for a 3rd grade student.,"user
+Create a two-step word problem involving addition and subtraction for a 3rd grade student.
+model
+Okay, here’s a two-step word problem suitable for a 3rd-grade student, incorporating addition and subtraction:
+
+**Problem:**
+
+Maria baked 12 cookies for her friends and gave 5 cookies to her brother.  Then, she ate 3 cookies herself. How many cookies does Maria have left?
+
+**Let's break it down:**
+
+1. **Start with the cookies Maria baked:**  She started with 12 cookies.
+2. **Subtract the cookies she ate:**  She gave 3 cookies away, so we need to subtract 3 from 12.  12 - 3 = 9 cookies.
+
+**Answer:** Maria has 9 cookies left.
+
+---","user
+Create a two-step word problem involving addition and subtraction for a 3rd grade student.
+model
+A farmer has 12 sheep and half of them have 2 legs. The other sheep have 11 sheep per leg. If he sells half of his sheep for $5 each, how much profit does he make?",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
+2026-05-03T22:07:41.685005+00:00,google/gemma-3-1b-it,./checkpoints/gemma-3-1b/gemma-3-1b-it-r8,Give me a percentage word problem about a discount at a store for a 6th grade student.,"user
+Give me a percentage word problem about a discount at a store for a 6th grade student.
+model
+Okay, here's a percentage word problem suitable for a 6th-grade student:
+
+**Problem:**
+
+Sarah is buying a new backpack at a store that sells backpacks for $35. The store is having a 20% discount on all backpacks.
+
+*   What is the sale price of the backpack after the discount?
+*   How much money will Sarah save by buying the backpack at the discounted price?
+
+**Let me know if you'd like me to provide the answer key or a little more guidance!** 
+
+---
+
+**Answer Key (for you, not the student):**
+
+*   **Sale Price:** $35 - (20% of $35) = $3","user
+Give me a percentage word problem about a discount at a store for a 6th grade student.
+model
+At the store, if you have $100, you could take a 10% discount on all your purchases. How much could you spend on each item after the discount?",8,32,0.05,0.0002,3,2,4,150,0.7043412923812866,0.8868460655212402,0.1825047731399536,1.2002198797573667,low,gsm8k_train_validation_split,512
