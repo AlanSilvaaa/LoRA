@@ -43,7 +43,7 @@ srun \
     --export=ALL,HF_TOKEN="${HF_TOKEN}" \
     bash -lc '
         set -euo pipefail
-        python -c "import datasets, transformers, peft, trl, huggingface_hub, accelerate" \
-            || python -m pip install --user datasets transformers peft trl huggingface_hub accelerate
+        python -c "import datasets, transformers, peft, trl, huggingface_hub, accelerate, vllm" \
+            || python -m pip install --user datasets transformers peft trl huggingface_hub accelerate vllm
         python -u main.py
     '

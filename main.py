@@ -1,6 +1,6 @@
 from config import DECODING_CONFIG, LORA_CONFIG, LORA_DIR, MODEL_ID, TESTING_PROMPS, TRAINING_CONFIG
 from helpers.results_utils import write_results_csv
-from test_with_question import run_question
+from test_with_vllm import VLLMQuestionRunner
 from train import main as train_main
 
 
@@ -10,8 +10,9 @@ def main():
 
     print("Running configured evaluation prompts...")
     rows = []
+    question_runner = VLLMQuestionRunner()
     for prompt in TESTING_PROMPS:
-        result = run_question(prompt)
+        result = question_runner.run_question(prompt)
         rows.append(
             {
                 "prompt": result["prompt"],
