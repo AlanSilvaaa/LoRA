@@ -1,6 +1,6 @@
 # Project specifics
-output/*.out
-output/*.err
+logs/*.out
+logs/*.err
 checkpoints
 secrets
 
