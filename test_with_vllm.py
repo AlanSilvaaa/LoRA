@@ -3,7 +3,7 @@ from transformers import AutoTokenizer
 from vllm import LLM, SamplingParams
 from vllm.lora.request import LoRARequest
 
-from config import DECODING_CONFIG, LORA_CONFIG, LORA_DIR, MODEL_ID
+from config import DECODING_CONFIG, LORA_CONFIG, LORA_DIR, MODEL_ID, TESTING_PROMPS
 from helpers.env_utils import load_repo_env
 
 app = typer.Typer()
@@ -27,6 +27,12 @@ class VLLMQuestionRunner:
             max_tokens=DECODING_CONFIG["max_new_tokens"],
         )
         self.lora_request = LoRARequest("math-lora", 1, LORA_DIR)
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        self.llm.llm_engine.engine_core.shutdown()
 
     def run_question(self, question: str) -> dict[str, str]:
         prompt = self.tokenizer.apply_chat_template(
@@ -66,13 +72,21 @@ class VLLMQuestionRunner:
 
 
 def run_question_vllm(question: str) -> dict[str, str]:
-    runner = VLLMQuestionRunner()
-    return runner.run_question(question)
+    with VLLMQuestionRunner() as runner:
+        return runner.run_question(question)
+
+
+def run_configured_prompts() -> list[dict[str, str]]:
+    with VLLMQuestionRunner() as runner:
+        return [runner.run_question(prompt) for prompt in TESTING_PROMPS]
 
 
 @app.command()
-def main(question: str = typer.Argument(..., help="Question to send to the model")):
-    run_question_vllm(question)
+def main(question: str | None = typer.Argument(None, help="Question to send to the model")):
+    if question is None:
+        run_configured_prompts()
+    else:
+        run_question_vllm(question)
 
 
 if __name__ == "__main__":

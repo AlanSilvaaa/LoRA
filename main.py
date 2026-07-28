@@ -10,27 +10,27 @@ def main():
 
     print("Running configured evaluation prompts...")
     rows = []
-    question_runner = VLLMQuestionRunner()
-    for prompt in TESTING_PROMPS:
-        result = question_runner.run_question(prompt)
-        rows.append(
-            {
-                "prompt": result["prompt"],
-                "model_id": MODEL_ID,
-                "lora_dir": LORA_DIR,
-                "lora_r": LORA_CONFIG["r"],
-                "lora_alpha": LORA_CONFIG["lora_alpha"],
-                "lora_dropout": LORA_CONFIG["lora_dropout"],
-                "learning_rate": TRAINING_CONFIG["learning_rate"],
-                "num_train_epochs": TRAINING_CONFIG["num_train_epochs"],
-                "per_device_train_batch_size": TRAINING_CONFIG["per_device_train_batch_size"],
-                "gradient_accumulation_steps": TRAINING_CONFIG["gradient_accumulation_steps"],
-                "max_new_tokens": DECODING_CONFIG["max_new_tokens"],
-                **overfitting_metrics,
-                "base_output": result["base_output"],
-                "finetuned_output": result["finetuned_output"],
-            }
-        )
+    with VLLMQuestionRunner() as question_runner:
+        for prompt in TESTING_PROMPS:
+            result = question_runner.run_question(prompt)
+            rows.append(
+                {
+                    "prompt": result["prompt"],
+                    "model_id": MODEL_ID,
+                    "lora_dir": LORA_DIR,
+                    "lora_r": LORA_CONFIG["r"],
+                    "lora_alpha": LORA_CONFIG["lora_alpha"],
+                    "lora_dropout": LORA_CONFIG["lora_dropout"],
+                    "learning_rate": TRAINING_CONFIG["learning_rate"],
+                    "num_train_epochs": TRAINING_CONFIG["num_train_epochs"],
+                    "per_device_train_batch_size": TRAINING_CONFIG["per_device_train_batch_size"],
+                    "gradient_accumulation_steps": TRAINING_CONFIG["gradient_accumulation_steps"],
+                    "max_new_tokens": DECODING_CONFIG["max_new_tokens"],
+                    **overfitting_metrics,
+                    "base_output": result["base_output"],
+                    "finetuned_output": result["finetuned_output"],
+                }
+            )
 
     csv_path = write_results_csv(rows)
     print(f"Saved evaluation results to {csv_path}")
