@@ -43,7 +43,7 @@ srun \
     --export=ALL,HF_TOKEN="${HF_TOKEN}" \
     bash -lc '
         set -euo pipefail
-        python -c "import datasets, transformers, peft, trl, huggingface_hub, accelerate, vllm; assert tuple(map(int, transformers.__version__.split(\".\")[:2])) >= (4, 53)" \
-            || python -m pip install --user --upgrade datasets "transformers>=4.53" peft trl huggingface_hub accelerate vllm
+        python tests/main.py
+        python -m pip install --user --upgrade --requirement requirements.txt
         python -u main.py
     '

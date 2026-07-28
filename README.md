@@ -1,11 +1,28 @@
 # LoRA
 
-Experimental pipeline for fine-tuning language models with LoRA on mathematical
-word problems. It supports training and validation, overfitting measurements,
-and comparisons between base and fine-tuned model outputs.
+Experimental pipeline for fine-tuning language models with LoRA. It supports
+configurable training, evaluation, and comparisons between base and fine-tuned
+model outputs.
 
-The model, dataset, and training parameters can be changed in `config.py` as
-different configurations are evaluated.
+Runtime settings can be changed in `config.py` as different configurations are
+evaluated.
+
+## Tests
+
+Run the CPU-only test suite without requesting cluster resources:
+
+```bash
+python tests/main.py
+```
+
+The entry point uses Python's `unittest` framework to discover and run every
+`test_*.py` file under `tests/`. The current suite checks Python and SLURM
+syntax, configuration values and paths, exact dependency pins, and Hugging Face
+credentials. Missing credentials are a warning locally and an error in the
+batch job.
+
+Runtime dependencies are pinned in `requirements.txt`. The SLURM job installs
+those exact versions before training.
 
 ## Run
 
