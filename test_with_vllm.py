@@ -3,8 +3,16 @@ from transformers import AutoTokenizer
 from vllm import LLM, SamplingParams
 from vllm.lora.request import LoRARequest
 
-from config import DECODING_CONFIG, LORA_CONFIG, LORA_DIR, MODEL_ID, TESTING_PROMPS
+from config import (
+    DECODING_CONFIG,
+    LORA_CONFIG,
+    LORA_DIR,
+    MODEL_ID,
+    TESTING_PROMPS,
+    TRAINING_CONFIG,
+)
 from helpers.env_utils import load_repo_env
+from helpers.results_utils import write_results_csv
 
 app = typer.Typer()
 
@@ -78,7 +86,29 @@ def run_question_vllm(question: str) -> dict[str, str]:
 
 def run_configured_prompts() -> list[dict[str, str]]:
     with VLLMQuestionRunner() as runner:
-        return [runner.run_question(prompt) for prompt in TESTING_PROMPS]
+        results = [runner.run_question(prompt) for prompt in TESTING_PROMPS]
+
+    rows = [
+        {
+            "prompt": result["prompt"],
+            "model_id": MODEL_ID,
+            "lora_dir": LORA_DIR,
+            "lora_r": LORA_CONFIG["r"],
+            "lora_alpha": LORA_CONFIG["lora_alpha"],
+            "lora_dropout": LORA_CONFIG["lora_dropout"],
+            "learning_rate": TRAINING_CONFIG["learning_rate"],
+            "num_train_epochs": TRAINING_CONFIG["num_train_epochs"],
+            "per_device_train_batch_size": TRAINING_CONFIG["per_device_train_batch_size"],
+            "gradient_accumulation_steps": TRAINING_CONFIG["gradient_accumulation_steps"],
+            "max_new_tokens": DECODING_CONFIG["max_new_tokens"],
+            "base_output": result["base_output"],
+            "finetuned_output": result["finetuned_output"],
+        }
+        for result in results
+    ]
+    csv_path = write_results_csv(rows)
+    print(f"Saved evaluation results to {csv_path}")
+    return results
 
 
 @app.command()
