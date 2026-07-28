@@ -1,7 +1,7 @@
 import math
 from typing import Any
 
-from config import TRAIN_EVAL_SAMPLE_SIZE
+from config import DATASET_NAME, TRAIN_EVAL_SAMPLE_SIZE
 
 
 def _overfit_level(loss_gap: float) -> str:
@@ -54,6 +54,6 @@ def measure_overfitting(
         "overfit_loss_gap": loss_gap,
         "overfit_ppl_ratio": math.exp(loss_gap),
         "overfit_level": _overfit_level(loss_gap),
-        "overfit_eval_dataset": "gsm8k_train_validation_split",
+        "overfit_eval_dataset": f"{DATASET_NAME}_train_validation_split",
         "train_eval_sample_size": sample_size,
     }

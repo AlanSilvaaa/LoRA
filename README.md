@@ -1,6 +1,11 @@
 # LoRA
 
-Lora repo
+Experimental pipeline for fine-tuning language models with LoRA on mathematical
+word problems. It supports training and validation, overfitting measurements,
+and comparisons between base and fine-tuned model outputs.
+
+The model, dataset, and training parameters can be changed in `config.py` as
+different configurations are evaluated.
 
 ## Run container on patagon
 

@@ -12,7 +12,7 @@ from peft import LoraConfig, PeftModel
 from trl import SFTConfig, SFTTrainer
 
 from huggingface_hub import login
-from config import LORA_CONFIG, LORA_DIR, MODEL_ID, TRAINING_CONFIG
+from config import DATASET_PATH, LORA_CONFIG, LORA_DIR, MODEL_ID, TRAINING_CONFIG
 from helpers.env_utils import load_repo_env, normalize_single_gpu_slurm_env
 from helpers.test_overfitting import measure_overfitting
 
@@ -29,14 +29,15 @@ def main():
     # Log in using HF_TOKEN from the environment or repo-local .env.
     login(token=os.environ.get("HF_TOKEN"))
 
-    dataset = load_dataset("openai/gsm8k", "main")
-    train_validation_split = dataset["train"].train_test_split(test_size=0.1, seed=42)
+    dataset = load_dataset("json", data_files=DATASET_PATH)["train"]
+    train_validation_split = dataset.train_test_split(test_size=0.1, seed=42)
     train_dataset = train_validation_split["train"]
     validation_dataset = train_validation_split["test"]
 
     print("Loading model in bfloat16...")
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-    tokenizer.pad_token = tokenizer.eos_token
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
 
     model = AutoModelForCausalLM.from_pretrained(
         MODEL_ID,
@@ -48,11 +49,20 @@ def main():
         model = PeftModel.from_pretrained(model, LORA_DIR, is_trainable=False)
 
     def format_instruction(example):
+        equation = example["lEquations"][0]
+        solution = f'{example["lSolutions"][0]:g}'
         messages = [
-            {"role": "user", "content": example["question"]},
-            {"role": "assistant", "content": example["answer"]},
+            {"role": "user", "content": example["sQuestion"]},
+            {
+                "role": "assistant",
+                "content": f"Ecuación: {equation}\nRespuesta: {solution}",
+            },
         ]
-        return tokenizer.apply_chat_template(messages, tokenize=False)
+        return tokenizer.apply_chat_template(
+            messages,
+            tokenize=False,
+            enable_thinking=False,
+        )
 
     lora_config = None if adapter_already_saved else LoraConfig(**LORA_CONFIG)
 

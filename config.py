@@ -1,23 +1,16 @@
-# MODEL_ID = "google/gemma-3-12b-it"
-# LORA_DIR = "./checkpoints/gemma-3-12b-it-gsm8k-lora"
-
-MODEL_ID = "google/gemma-3-4b-it"
-LORA_DIR = "./checkpoints/gemma-3-4b/r8"
-
-# MODEL_ID = "google/gemma-3-1b-it"
-# LORA_DIR = "./checkpoints/gemma-3-1b/gemma-3-1b-it-r8"
-
-# MODEL_ID = "google/gemma-3-270m-it"
-# LORA_DIR = "./checkpoints/gemma-3-270m-it-gsm8k-lora"
+MODEL_ID = "HuggingFaceTB/SmolLM3-3B"
+LORA_DIR = "./checkpoints/smollm3-3b/spanish-math-r8"
+DATASET_PATH = "./datasets/math-word-problems-spanish-kaggle.json"
+DATASET_NAME = "math-word-problems-spanish-kaggle"
 
 TESTING_PROMPS = [
-    "Give me a math problem that involves addition and apples for kids of 1st grade. Also solve the problem.",
-    "Give me a math problem that involves multiplication and oranges for kids of 2nd grade. Also solve the problem.",
-    "If i have 3 boxes of chocolates and each box has 5 chocolates, how many chocolates do I have in total?",
-    "Create a math problem where the answer is 24, suitable for a 3rd grade student.",
-    "Create a division word problem about sharing cookies equally for a 2nd grade student.",
-    "Create a two-step word problem involving addition and subtraction for a 3rd grade student.",
-    "Give me a percentage word problem about a discount at a store for a 6th grade student."
+    "Si tengo 3 cajas de chocolates y cada caja tiene 5 chocolates, ¿cuántos chocolates tengo en total?",
+    "Hay 24 manzanas y se reparten por igual entre 6 niños. ¿Cuántas manzanas recibe cada niño?",
+    "Lucía tenía 18 lápices, regaló 7 y después compró 5. ¿Cuántos lápices tiene ahora?",
+    "Una entrada cuesta 12 pesos. ¿Cuánto cuestan 8 entradas?",
+    "Pedro recorrió 2,5 kilómetros el lunes y 3,75 kilómetros el martes. ¿Cuántos kilómetros recorrió en total?",
+    "Crea un problema matemático en español cuya respuesta sea 24 y resuélvelo.",
+    "Crea y resuelve un problema de porcentajes sobre un descuento para un estudiante de sexto grado.",
 ]
 
 LORA_CONFIG = {

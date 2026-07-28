@@ -21,6 +21,7 @@ def run_question(question: str) -> dict[str, str]:
         [{"role": "user", "content": question}],
         tokenize=False,
         add_generation_prompt=True,
+        enable_thinking=False,
     )
 
     # Load base model in bfloat16 to fit in memory.
