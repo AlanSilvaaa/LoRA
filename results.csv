@@ -527,3 +527,63 @@ b) What will be the final price of the video game after the discount?
 Give me a percentage word problem about a discount at a store for a 6th grade student.
 model
 A store is offering a 20% off sale on clothes. Jennefer wants to buy a pair of pants that costs $20 and a sweater that costs $15. How much will Jennefer spend on her clothes after the discount?",8,32,0.05,0.0002,3,2,4,150,0.5763452053070068,0.7794463038444519,0.20310109853744507,1.2251963275431945,moderate,gsm8k_train_validation_split,512
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,"Si tengo 3 cajas de chocolates y cada caja tiene 5 chocolates, ¿cuántos chocolates tengo en total?","Si tienes 3 cajas de chocolates y cada caja contiene 5 chocolates, para calcular el total de chocolates tienes que multiplicar el número de cajas por el número de chocolates en cada caja. 
+
+3 cajas × 5 chocolates por caja = 15 chocolates
+
+Por lo tanto, tienes un total de 15 chocolates.","Ecuación: X=(3.0*5.0)
+Respuesta: 15",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,Hay 24 manzanas y se reparten por igual entre 6 niños. ¿Cuántas manzanas recibe cada niño?,"Cada niño recibe 4 manzanas, ya que 24 manzanas divididas por 6 niños igualan 24 ÷ 6 = 4.","Ecuación: X=(24.0/6.0)
+Respuesta: 4",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,"Lucía tenía 18 lápices, regaló 7 y después compró 5. ¿Cuántos lápices tiene ahora?","Lucía tenía 18 lápices. Después de regalar 7, le quedaron 18 - 7 = 11 lápices. Luego, compró 5 adicionales, de manera que ahora tiene 11 + 5 = 16 lápices.","Ecuación: X=(18.0-7.0)
+Respuesta: 11",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,Una entrada cuesta 12 pesos. ¿Cuánto cuestan 8 entradas?,"Para calcular el costo total de 8 entradas cuando cada entrada cuesta 12 pesos, simplemente multiplicamos el número de entradas por el costo de cada entrada. 
+
+Es decir: 
+
+8 entradas × 12 pesos por entrada = 96 pesos
+
+Por lo tanto, 8 entradas cuestan 96 pesos.","Ecuación: X=(12.0*8.0)
+Respuesta: 96",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,"Pedro recorrió 2,5 kilómetros el lunes y 3,75 kilómetros el martes. ¿Cuántos kilómetros recorrió en total?","Para calcular la distancia total que Pedro recorrió en total, simplemente sumamos los kilómetros que recorrió el lunes y el martes.
+
+- El lunes recorrió 2,5 kilómetros.
+- El martes recorrió 3,75 kilómetros.
+
+Entonces, la distancia total es:
+2,5 km + 3,75 km = 6,25 km
+
+Por lo tanto, Pedro recorrió 6,25 kilómetros en total.","Ecuación: X=(2.5+3.75)
+Respuesta: 6.25",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,Crea un problema matemático en español cuya respuesta sea 24 y resuélvelo.,"**Problema Matemático:**
+
+Dadas las tres ecuaciones siguientes:
+1. \( 2x + 3y = 15 \)
+2. \( x - 2y = -5 \)
+3. \( 3x + 4y = 21 \)
+
+Encuentra los valores de \( x \) y \( y \) que satisfacen todas las ecuaciones dadas.
+
+**Resolución del Problema:**
+
+Primero, resolvemos el sistema de ecuaciones utilizando el método de eliminación:
+
+1. **Ecuación 1 y Ecuación 2:**
+
+   \( 2x + 3y = 15 \)
+   \( x - 2","Ecuación: X=(18.0+6.0)
+Respuesta: 24",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-28T20:00:19.940847+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-r8,Crea y resuelve un problema de porcentajes sobre un descuento para un estudiante de sexto grado.,"### Problema de Porcentajes: Descuento en una Tela de Ropa
+
+**Contexto:**
+Imagina que Maria tiene 100 pesos para comprar una tela de ropa que cuesta 25 pesos. La tienda ofrece un descuento del 20% si se realiza la compra. María quiere saber cuánto dinero ahorrará con el descuento y cuánto pagarán en total.
+
+**Pregunta:**
+¿Cuánto dinero salvará María con el descuento y cuánto tendrá que pagar?
+
+**Solución:**
+
+**Paso 1: Cálculo del Descuento:**
+Maria necesita calcular cuánto es el descuento en peso.
+- El descuento es del ","Ecuación: X=(162.0*0.4)
+Respuesta: 64.8",8,32,0.05,0.0002,3,2,4,150,,,,,,,
