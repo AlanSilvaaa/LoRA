@@ -1,9 +1,7 @@
-# vLLM 0.9.2 requires this PyTorch family.
 torch==2.7.0
 torchaudio==2.7.0
 torchvision==0.22.0
 xformers==0.0.30
-
 accelerate==1.8.1
 datasets==3.6.0
 huggingface-hub==0.33.2
