@@ -587,3 +587,180 @@ Imagina que Maria tiene 100 pesos para comprar una tela de ropa que cuesta 25 pe
 Maria necesita calcular cuánto es el descuento en peso.
 - El descuento es del ","Ecuación: X=(162.0*0.4)
 Respuesta: 64.8",8,32,0.05,0.0002,3,2,4,150,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,"Crea una pregunta original de suma para 1° Básico, con respuesta y explicación.","**Pregunta:**
+
+¿Cuántos deditos tiene una mano humana?
+
+**Respuesta:**
+
+Una mano humana tiene 5 deditos.
+
+**Explicación:**
+
+Una mano humana, tanto en las manos derecha como en las izquierda, está compuesta por 5 dedos. Estos dedos se conocen como los dedos índice, medio, anular, menisco y pulgar. Cada uno de estos dedos tiene una función específica y están articulados entre sí, permitiendo la flexibilidad necesaria para realizar diversas acciones como escribir, apretar, etc. Por lo tanto, en total, una mano humana tiene 5 deditos.","Pregunta: En una maleta hay 5 libros y un par de zapatos. ¿Cuántos objetos hay en total?
+
+Solución: 5 libros + 1 par de zapatos = 6 objetos",8,32,0.05,0.0002,3,2,4,400,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,Crea una pregunta de selección múltiple sobre multiplicación para 3° Básico.,"¿Cuál es el resultado de multiplicar 7 por 9?
+
+A) 63
+B) 72
+C) 81
+D) 90","Pregunta: En una caja hay $4$ bolsas con $3$ frutos en cada una. ¿Cuántos frutos hay en total en la caja?
+
+Alternativas:
+A) $4 + 3 = 7$
+B) $4 \cdot 3 = 12$
+C) $\frac{4}{3} = 1,33$
+D) $\frac{3}{4} = 0,75$
+
+Respuesta correcta: B) $4 \cdot 3 = 12$",8,32,0.05,0.0002,3,2,4,400,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,"Crea una pregunta de respuesta abierta sobre fracciones para 4° Básico, con dificultad media.",¿Cuál es el significado de una fracción y cómo se representa en la recta numérica?,"Pregunta: En un picnic, se repartió una bolsa de galletas entre 5 niños. Si en cada bolsa había 12 galletas, ¿cuántas galletas había en total?
+
+Solución: 12 x 5 = 60 galletas",8,32,0.05,0.0002,3,2,4,400,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,"Crea una pregunta de geometría para 5° Básico, con respuesta y explicación para el docente.","**Pregunta de Geometría para 5° Básico:**
+
+¿Cuántos triángulos rectángulos equiláteros pueden formarse si se unen 3 cuadrados de 1 cm de lado?
+
+**Respuesta:**
+
+3 triángulos rectángulos equiláteros.
+
+**Explicación para el Docente:**
+
+Para resolver esta pregunta, debemos entender qué es un triángulo rectángulo equilátero y cómo se puede formar a partir de un cuadrado.
+
+1. **Triángulo Rectángulo Equilátero:**
+   Un triángulo rectángulo equilátero es un triángulo que tiene tres lados iguales y un ángulo de 90°. Sin embargo, es importante notar que, en la realidad, un triángulo rectángulo equilátero no es posible porque si un triángulo tiene tres lados iguales, todos sus ángulos deben ser iguales (60° cada uno), lo que contradice la definición de un triángulo rectángulo.
+
+   **Corrección:**
+   El triángulo que se puede formar a partir de un cuadrado y que es rectángulo es el **triángulo rectángulo isósceles**. Este triángulo tiene dos lados iguales y un ángulo recto (90°).
+
+2. **Formación del Triángulo:**
+   Si se unen 3 cuadrados de 1 cm de lado, se pueden formar 3 triángulos rectángulos isósceles. Cada triángulo se forma uniendo dos lados adyacentes de dos cuadrados y el lado común como la hipotenusa.
+
+3. **Cálculo de la Longitud de la Hipotenusa:**
+   La hipotenusa de cada","Pregunta: En un círculo de radio $5$ cm, se inscribe un cuadrado. ¿Cuál es la longitud de cada lado del cuadrado?
+
+Solución: Se tiene que:
+$2r = 2(5) = 10$ cm
+Por lo tanto, la diagonal del cuadrado mide $10$ cm
+Sabemos que, en un cuadrado, el cateto es igual a $\dfrac{diagonal}{\sqrt{2}}$
+Por lo tanto, cada lado mide:
+$\dfrac{10}{\sqrt{2}}$ cm
+Para simplificar la expresión anterior, multiplicamos el numerador y el denominador por $\sqrt{2}$ y obtenemos:
+$\dfrac{10\sqrt{2}}{2}$ cm
+Lo que significa que cada lado del cuadrado mide $5\sqrt{2}$ cm
+Teniendo en cuenta que $\sqrt{2} \approx 1,414$
+El lado mide aproximadamente $5(1,414) = 7,07$ cm",8,32,0.05,0.0002,3,2,4,400,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,"Crea una pregunta de datos y probabilidades para 6° Básico, con dificultad profunda.","**Pregunta de Datos y Probabilidades:**
+
+Una empresa vende dos tipos de productos, A y B. Durante un mes, se vendieron 1000 unidades de productos A y 800 unidades de productos B. Se conoce que el 60% de las ventas de productos A fueron realizadas por clientes que ya habían comprado productos B, mientras que el 30% de las ventas de productos B fueron realizadas por clientes que ya habían comprado productos A. ¿Cuál es la probabilidad de que un cliente que compró un producto A también haya comprado un producto B? ¿Y cuál es la probabilidad de que un cliente que compró un producto B también haya comprado un producto A?
+
+**Solución:**
+
+**1. Probabilidad de que un cliente que compró un producto A también haya comprado un producto B:**
+
+Sabemos que el 60% de las ventas de productos A fueron realizadas por clientes que ya habían comprado productos B. Esto significa que 60% de los clientes que compraron A también compraron B.
+
+\[ P(A \cap B) = 0.60 \]
+
+**2. Probabilidad de que un cliente que compró un producto B también haya comprado un producto A:**
+
+Sabemos que el 30% de las ventas de productos B fueron realizadas por clientes que ya habían comprado productos A. Esto significa que 30% de los clientes que compraron B también compraron A.
+
+\[ P(B \cap A) = 0.30 \]
+
+Por lo tanto, la probabilidad de que un cliente que compró un producto A también haya comprado un producto B es 0.60, y la probabilidad de que un cliente que compró un producto B también haya comprado un producto A es 0.30.","Pregunta: En un lote de 24 frutas, 6 son manzanas, 8 son peras y el resto son naranjas.
+Si se elige una fruta al azar del lote, ¿cuál es la probabilidad de que sea una pera?
+
+Solución: 8
+Se elige una fruta al azar del lote, de 24 en total, entonces:
+Pera: 8/24 = 1/3
+Por lo tanto la probabilidad de que sea una pera es de 1/3.",8,32,0.05,0.0002,3,2,4,400,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,Crea una evaluación de Matemática para 2° Básico con 3 preguntas y una pauta de respuestas.,"### Evaluación de Matemática para 2° Básico
+
+**Pregunta 1:**
+¿Cuántos días hay en un mes que tiene 31 días?
+
+**Respuesta:**
+31 días.
+
+**Pauta de Respuesta:**
+El mes de enero, marzo, mayo, julio, agosto, octubre y diciembre tiene 31 días. Por lo tanto, el número de días en un mes con 31 días es 31.
+
+**Pregunta 2:**
+¿Cuántos lados tiene una esfera?
+
+**Respuesta:**
+Ninguna esfera tiene lados.
+
+**Pauta de Respuesta:**
+Una esfera es una figura geométrica que se asemeja a una bolla de jabón o una pelota de fútbol. Las esferas son superficies lisas y redondas, por lo que no tienen lados ni bordes. Por eso, una esfera no tiene lados.
+
+**Pregunta 3:**
+¿Cuántos centímetros hay en 1 metro?
+
+**Respuesta:**
+100 centímetros.
+
+**Pauta de Respuesta:**
+1 metro se define como 100 centímetros. Esta unidad de medida es utilizada en el sistema métrico para medir distancias. Por lo tanto, 1 metro equivale a 100 centímetros.","Pregunta: ¿Qué fracción corresponde al siguiente dibujo?
+______________
+
+Solución: $\dfrac{1}{2}$",8,32,0.05,0.0002,3,2,4,400,,,,,,,
+2026-07-29T14:43:05.877907+00:00,HuggingFaceTB/SmolLM3-3B,./checkpoints/smollm3-3b/spanish-math-generation-r8,Crea una evaluación de Matemática para 6° Básico con 5 preguntas variadas y una pauta de respuestas.,"Evaluación de Matemática para 6° Básico
+
+**Preguntas:**
+
+1. **Operaciones Básicas:**
+   ¿Cuál es el resultado de 456 + 789 - 123?
+   a) 1222
+   b) 1221
+   c) 1220
+   d) 1219
+
+2. **Multiplicación:**
+   ¿Cuál es el producto de 23 y 41?
+   a) 943
+   b) 943
+   c) 933
+   d) 953
+
+3. **División:**
+   ¿Cuál es el cociente de 360 dividido entre 9?
+   a) 40
+   b) 41
+   c) 42
+   d) 43
+
+4. **Fracciones:**
+   ¿Cuál es el resultado de 3/4 + 1/2?
+   a) 5/4
+   b) 1 1/4
+   c) 1 1/2
+   d) 1 3/4
+
+5. **Medidas:**
+   ¿Cuál es el perímetro de un rectángulo con longitudes de 12 cm y 8 cm?
+   a) 40 cm
+   b) 48 cm
+   c) 56 cm
+   d) 60 cm
+
+**Pauta de Respuestas:**
+
+1. **Respuesta Correcta:** b) 1221
+   *Explicación:* 456 + 789 = 1245; 1245 - 123 = 1222. El error está en la suma, pero la resta está correcta.
+
+2. **Respuesta Correcta:** a) 943
+   *Explicación:* 23 x 41 = 943. Esta es la multiplicación correcta.
+
+3. **Respuesta Correcta","Pregunta: Adivina el número que está entre 600 y 700.
+Sigue las siguientes indicaciones:
+- Este número es par.
+- Sus dígitos son distintos.
+- El dígito de la unidad es el más próximo al 5 que puedas pensar.
+- El dígito de la unidad es par.
+¿Cuál es el número que adivinaste?
+
+Solución: El número es 642.",8,32,0.05,0.0002,3,2,4,400,,,,,,,
