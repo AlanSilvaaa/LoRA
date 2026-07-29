@@ -41,7 +41,7 @@ def main():
 
     model = AutoModelForCausalLM.from_pretrained(
         MODEL_ID,
-        dtype=torch.bfloat16,
+        torch_dtype=torch.bfloat16,
     )
     adapter_already_saved = _saved_lora_adapter_exists()
     if adapter_already_saved:
