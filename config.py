@@ -1,16 +1,16 @@
 MODEL_ID = "HuggingFaceTB/SmolLM3-3B"
-LORA_DIR = "./checkpoints/smollm3-3b/spanish-math-r8"
-DATASET_PATH = "./datasets/math-word-problems-spanish-kaggle.json"
-DATASET_NAME = "math-word-problems-spanish-kaggle"
+LORA_DIR = "./checkpoints/smollm3-3b/spanish-math-generation-r8"
+DATASET_PATH = "./datasets/arma-tu-evaluacion-generation.json"
+DATASET_NAME = "arma-tu-evaluacion-generation"
 
 TESTING_PROMPS = [
-    "Si tengo 3 cajas de chocolates y cada caja tiene 5 chocolates, ¿cuántos chocolates tengo en total?",
-    "Hay 24 manzanas y se reparten por igual entre 6 niños. ¿Cuántas manzanas recibe cada niño?",
-    "Lucía tenía 18 lápices, regaló 7 y después compró 5. ¿Cuántos lápices tiene ahora?",
-    "Una entrada cuesta 12 pesos. ¿Cuánto cuestan 8 entradas?",
-    "Pedro recorrió 2,5 kilómetros el lunes y 3,75 kilómetros el martes. ¿Cuántos kilómetros recorrió en total?",
-    "Crea un problema matemático en español cuya respuesta sea 24 y resuélvelo.",
-    "Crea y resuelve un problema de porcentajes sobre un descuento para un estudiante de sexto grado.",
+    "Crea una pregunta original de suma para 1° Básico, con respuesta y explicación.",
+    "Crea una pregunta de selección múltiple sobre multiplicación para 3° Básico.",
+    "Crea una pregunta de respuesta abierta sobre fracciones para 4° Básico, con dificultad media.",
+    "Crea una pregunta de geometría para 5° Básico, con respuesta y explicación para el docente.",
+    "Crea una pregunta de datos y probabilidades para 6° Básico, con dificultad profunda.",
+    "Crea una evaluación de Matemática para 2° Básico con 3 preguntas y una pauta de respuestas.",
+    "Crea una evaluación de Matemática para 6° Básico con 5 preguntas variadas y una pauta de respuestas.",
 ]
 
 LORA_CONFIG = {
@@ -36,11 +36,11 @@ TRAINING_CONFIG = {
     "optim": "adamw_torch",
     "learning_rate": 2e-4,
     "lr_scheduler_type": "cosine",
-    "warmup_steps": 50,
+    "warmup_steps": 10,
     "eval_strategy": "steps",
-    "eval_steps": 100,
+    "eval_steps": 25,
     "save_strategy": "steps",
-    "save_steps": 100,
+    "save_steps": 25,
     "save_total_limit": 5,
     "logging_steps": 10,
     "num_train_epochs": 3,
@@ -51,7 +51,10 @@ TRAINING_CONFIG = {
 }
 
 DECODING_CONFIG = {
-    "max_new_tokens": 150,
+    "max_new_tokens": 400,
+    "do_sample": True,
+    "temperature": 0.8,
+    "top_p": 0.9,
 }
 
 TRAIN_EVAL_SAMPLE_SIZE = 512

@@ -33,6 +33,8 @@ class VLLMQuestionRunner:
         )
         self.sampling_params = SamplingParams(
             max_tokens=DECODING_CONFIG["max_new_tokens"],
+            temperature=DECODING_CONFIG["temperature"],
+            top_p=DECODING_CONFIG["top_p"],
         )
         self.lora_request = LoRARequest("math-lora", 1, LORA_DIR)
 

@@ -1,0 +1,2846 @@
+[
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿En cuál de las siguientes opciones se representa el número \"diecisiete\"?\n\nAlternativas:\nA) $7$\nB) $71$\nC) $17$\nD) $107$\n\nRespuesta correcta: C) $17$",
+    "source_id": "cn-1422",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Calcula:\n1) 5 + 2 = ____\n2) 6 + 3 = ____\n3) 9 + 4 = ____\n\nSolución: 1) 7\n2) 9\n3) 13",
+    "source_id": "cn-3249",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Marcelo tiene 4 libros. Para su cumpleaños le regalaron dos libros más. ¿Cuántos libros tiene ahora Marcelo?\nOperación:\nResultado:\n\nSolución: Operación:\n4 + 2 = 6\nRespuesta:\nMarcelo ahora tiene 6 libros.",
+    "source_id": "cn-3120",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La mascota de Carolina tuvo 5 cachorros. Ella le regaló 2 de los cachorros a su primo. ¿Cuántos cachorros le quedaron?\nOperación:\nRespuesta:\n\nSolución: Operación:\n5 - 2 = 3\nRespuesta:\nA Carolina le quedarán 3 cachorritos.",
+    "source_id": "cn-3121",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Camila tiene que realizar 9 ejercicios de matemática. Si ella ya realizó 4, ¿qué operación permite calcular la cantidad de ejercicios que le quedan por realizar?\n\nAlternativas:\nA) 9 + 4\nB) 9 - 4\nC) 4 : 9\n\nRespuesta correcta: B) 9 - 4\n\nExplicación: Para saber cuantos ejercicios le faltan a Camila, se debe restar a la cantidad total de ejercicios (9) los que ya ha realizado (4); así, queda lo siguiente:\n9 - 4 = 5",
+    "source_id": "cn-2629",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Martina leyó un libro de 12 páginas en dos días. El primer día leyó 9 páginas, ¿cuántas páginas leyó el segundo día?\n\nAlternativas:\nA) 3 páginas.\nB) 4 páginas.\nC) 9 páginas.\n\nRespuesta correcta: A) 3 páginas.\n\nExplicación: Se puede calcular la cantidad de páginas queleyó el segundo día diciendo:\n$12 - 9 = 3$\nO contando cuánto le falta al $9$ para ser $12$ y el resultado sería $3$ páginas",
+    "source_id": "cn-2698",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ana tenía 8 manzanas y regaló 2 de ellas. ¿Cuántas manzanas le quedaron?\nRespuesta: Le quedaron _____ manzanas.\n\nSolución: 8 - 2 = 6\nLe quedaron 6 manzanas.",
+    "source_id": "cn-2822",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Pedro tenía 5 chocolates y su mamá le regaló 3 chocolates más. ¿Cuántos chocolates tiene ahora en total?\nRespuesta: Ahora tiene ____ chocolates en total.\n\nSolución: 5 + 3 = 8\nAhora tiene 8 chocolates en total.",
+    "source_id": "cn-2823",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 03.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el número que corresponde a la palabra\nseis\n?\n\nAlternativas:\nA) $9$\nB) $5$\nC) $6$\n\nRespuesta correcta: C) $6$",
+    "source_id": "cn-2437",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 03"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Problema: \"En un juego la ficha de Ana estaba en la casilla 8. En su turno, avanzó 6 casillas. ¿En qué casilla quedó la ficha de Ana?\"\n¿Qué operación permite resolver el problema anterior?\n\nAlternativas:\nA) 8 - 6 = 2, entonces quedó en la casilla 2.\nB) 8 + 6 = 14, entonces quedó en la casilla 14.\nC) 8 + 8 = 16, entonces quedó en la casilla 16.\n\nRespuesta correcta: B) 8 + 6 = 14, entonces quedó en la casilla 14.\n\nExplicación: 8 + 6 = 14, entonces quedó en la casilla 14.\nVeamos que Ana se encontraba en la casilla 8 y avanzó 6 casillas. Lo que debió hacer para saber en que casilla quedó, es sumar estos dos números obteniendo lo siguiente:\n8 + 6 = 14\nPor lo tanto, quedó en la casilla número 14.",
+    "source_id": "cn-2440",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 1° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA01 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Matilde está en el piso número 13. Si baja 5 pisos, ¿a qué piso llegará?\n\nAlternativas:\nA) 18\nB) 9\nC) 8\n\nRespuesta correcta: C) 8\n\nExplicación: Si Matilde estaba en el piso número 13 y debe bajar 5, la operación que permite calcular a qué número llegará es:\n13 - 5 = 8\nPor lo tanto, Matilde llegará al piso número 8.",
+    "source_id": "cn-2441",
+    "grade": "1° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA01 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 12.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente secuencia:\n_____ $20, 22, 24, 26, 28$ _____\n¿Qué números\ndeben ir al inicio y al final de la secuencia para que se mantenga el patrón?\nAl inicio debe ir: ____\nAl final debe ir: _____\n\nSolución: Los números que faltan son 18 y 30.\nAl observar los números de la secuencia numérica:\n$20, 22, 24, 26$ y $28$\nPodemos reconocer que se trata de una secuencia que cuenta hacia adelante de $2$ en $2$.\nAsí podemos descubrir el primer numero incógnito contando hacia atrás de $2$ en $2$ a partir de $20$ obteniendo el número $18$.\nEl segundo número incógnito podemos descubrirlo contando hacia adelante de $2$ en $2$ a partir de $28$ obteniendo el número $30$.",
+    "source_id": "cn-1421",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 12.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Al observar la siguiente secuencia $ 11 $, $ 18 $, $ 25 $, $ 32 $, $ 39 $, $ 46 $, $ 53 ... $, ¿qué podemos afirmar?\n\nAlternativas:\nA) El número que continúa en la secuencia es 62.\nB) El número que continúa en la secuencia es 61.\nC) El número que continúa en la secuencia es 60.\nD) El número que continúa en la secuencia es 59.\n\nRespuesta correcta: C) El número que continúa en la secuencia es 60.\n\nExplicación: Al observar la secuencia:\n$ 11 - 18 - 25 - 32 - 39 - 46 - 53 $\nPodemos notar que es una secuencia que cuenta hacia adelante de 7 en 7, por lo tanto, el número que sigue es 60:\n53 + 7 = 60",
+    "source_id": "cn-1885",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 12.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente secuencia numérica:\n90 - 85 - 80 - 75 - 70 - ___\n¿Cuál es el siguiente número en la secuencia?\n\nAlternativas:\nA) $55$\nB) $60$\nC) $65$\n\nRespuesta correcta: C) $65$\n\nExplicación: En primer lugar, es necesario reconocer que la secuencia presentada es de carácter descencente (cuenta hacia atrás) de $5$ en $5$.\nLuego, para encontrar el número que debe ir en la línea debemos decir:\n$70 - 5 = 65$",
+    "source_id": "cn-1888",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA02 OA 15.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué figura 2D tiene 4 vértices?\n\nAlternativas:\nA) Círculo\nB) Triángulo\nC) Rectángulo\n\nRespuesta correcta: C) Rectángulo\n\nExplicación: La figura 2D que tiene 4 vértices es el rectángulo",
+    "source_id": "cn-1900",
+    "grade": "2° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA02 OA 15"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de menor a mayor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 34, 14, 84, 43\nB. 57, 35, 42, 75\n\nSolución: 14, 34, 43, 84\nB. 35, 42, 57, 75",
+    "source_id": "cn-3100",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de menor a mayor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 58, 83, 28, 35\nB. 62, 95, 56, 29\n\nSolución: 28, 35, 58, 83\nB. 29, 56, 62, 95",
+    "source_id": "cn-3101",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de menor a mayor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 17, 87, 71, 48\nB. 41, 16, 62, 26\n\nSolución: 17, 48, 71, 87\nB. 16, 26, 41, 62",
+    "source_id": "cn-3102",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de mayor a menor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 39 84 92 73\nB. 18 59 36 81\n\nSolución: 92 84 73 39\nB. 81 59 36 18",
+    "source_id": "cn-3103",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de mayor a menor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 44 - 24 - 34 - 54\nB. 13 - 35 - 74 - 51\n\nSolución: 54 - 44 - 34 - 24\nB. 74 - 51 - 35 - 13",
+    "source_id": "cn-3104",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de mayor a menor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 77 - 68 - 89 - 97\nB. 11 - 30 - 19 - 21\n\nSolución: 97 - 89 - 77 - 68\nB. 30 - 21 - 19 - 11",
+    "source_id": "cn-3105",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ordena los números de mayor a menor.\n___ ___ ___ ___\n___ ___ ___ ___\nA. 97, 60, 98, 77\nB. 65, 39, 92, 84\n\nSolución: 98, 97, 77, 60\nB. 92, 84, 65, 39",
+    "source_id": "cn-3106",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Angélica entrega 5 galletas a cada uno de sus 4 amigos.\n¿Cuántas galletas entrega en total?\nRespuesta: ___________________\n\nSolución: Entrega 20 galletas",
+    "source_id": "cn-3260",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Tania compró 3 bolsas de gomitas.\nSi cada bolsa trae 10 gomitas, ¿cuántas gomitas compró Tania en total?\n\nSolución: Compró 30 gomitas.",
+    "source_id": "cn-3261",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 02.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cómo se lee el número 45?\n\nAlternativas:\nA) Cuatro y cinco.\nB) Cinco y cuatro.\nC) Cuarenta y cinco.\nD) Cincuenta y cuatro.\n\nRespuesta correcta: C) Cuarenta y cinco.\n\nExplicación: Cuarenta y cinco.",
+    "source_id": "cn-3070",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 02.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cómo se lee el número 78?\n\nAlternativas:\nA) Ocho y siete.\nB) Siete y ocho.\nC) Ochenta y siete.\nD) Setenta y ocho.\n\nRespuesta correcta: D) Setenta y ocho.\n\nExplicación: Setenta y ocho.",
+    "source_id": "cn-3071",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 02.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué número corresponde a la palabra\ntreinta y seis\n?\n\nAlternativas:\nA) 306\nB) 603\nC) 36\nD) 63\n\nRespuesta correcta: C) 36\n\nExplicación: 36",
+    "source_id": "cn-3072",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 02.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué número corresponde a la palabra noventa y dos?\n\nAlternativas:\nA) 29\nB) 92\nC) 209\nD) 902\n\nRespuesta correcta: B) 92\n\nExplicación: 92",
+    "source_id": "cn-3073",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En un sobre pequeño hay 40 láminas y en otro hay 26 láminas. Si se ponen ambos sobres dentro de un sobre grande. ¿Cuántas láminas habrá en total en el sobre grande?\nOperación:\nRespuesta: En el sobre grande habrá _______ láminas.\n\nSolución: Operación:\n40 + 26 = 66\nRespuesta:\nEn el sobre grande hay 66 láminas.",
+    "source_id": "cn-3123",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Pedro tiene 63 chapitas en su mochila y 15 chapitas en un cajón. ¿Cuántas chapitas tiene Pedro en total?\nOperación:\nRespuesta: Pedro tiene, en total, _______ chapitas.\n\nSolución: Operación:\n63 + 15 = 78\nRespuesta:\nPedro tiene, en total, 78 chapitas.",
+    "source_id": "cn-3124",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Camila tenía 87 monedas. Gastó 25 monedas en un juguete. ¿Cuántas monedas le quedaron?\nOperación:\nRespuesta: Le quedaron _______ monedas.\n\nSolución: Operación:\n87 - 25 = 62\nRespuesta:\nLe quedaron 62 monedas.",
+    "source_id": "cn-3125",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El sábado fueron al circo 38 personas en la mañana y 50 personas en la tarde. ¿Cuántas personas fueron en total ese día al circo?\nOperación:\nRespuesta: En total fueron_______ personas.\n\nSolución: Operación:\n38 + 50 = 88\nRespuesta:\nEn total fueron 88 personas.",
+    "source_id": "cn-3127",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ana María colecciona figuritas de vidrio. Tiene 55 figuritas y quiere lograr tener 95. ¿Cuántas figuritas le faltan para lograrlo?\nOperación:\nRespuesta: Le faltan _______ figuritas.\n\nSolución: Operarción:\n95 - 55 = 40\nRespuesta:\nLe faltan 40 figuritas.",
+    "source_id": "cn-3128",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Laura compró un dulce que costaba 80 pesos y le dieron 20 pesos de vuelto. ¿Con cuánto dinero pagó Laura?\nOperación:\nRespuesta: Pagó con ____ pesos.\n\nSolución: Operación:\n80 + 20 = 100\nRespuesta:\nPagó con 100 pesos.",
+    "source_id": "cn-3130",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Inventa y escribe un problema que se resuelva con 36 + 13. Luego resuelvelo y escribe la respuesta.\nProblema:\nRespuesta al problema:\n\nSolución: El problema se considerará:\nLogrado\nsi el o la estudiante:\n- Inventa un contexto para la operación.\n- Formula una pregunta que relacionada con la operación indicada.\n- Resuelve correctamente el problema.\n- Responde la pregunta que planteó.\nMedianamente logrado,\nen el caso de que el o la estudiante:\n- Invente un contexto pero no formule una pregunta.\n- Invente un problema y formule una pregunta con la operación indicada pero lo resuelva con errores.\n- Invente el problema, formule una pregunta con la operación indicada, lo resuelva correctamente pero no responda la pregunta que planteó.\nNo logrado\n, en el caso de que el o la estudiante:\n- No invente un problema.\n- No invente un problema y sólo resuelva la operación.\n- Invente un problema pero la pregunta formulada no use la operación indicada.",
+    "source_id": "cn-3132",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En mi casa había 26 frutillas. Mi hermana se comió 4 frutillas. ¿Cuántas frutillas quedaron?\nRespuesta:\n\nSolución: Operación:\n26 - 4 = 22\nRepuesta: Quedaron 22 frutillas.",
+    "source_id": "cn-3137",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Antonia tiene un cuaderno con 95 hojas. Si ya ha usado 20 hojas del cuaderno, ¿cuántas hojas le faltan por usar?\nOperación:\nRespuesta:\n\nSolución: Operación:\n95 - 20 = 75\nRespuesta:\nLe faltan 75 hojas por usar.",
+    "source_id": "cn-3138",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Don José tiene 88 años. Su hermano tiene 16 años menos que él. ¿Cuántos años tiene el hermano de Don José?\n\nSolución: Operación:\n88 - 16 = 72\nRespuesta:\nEl hermano de don José tiene 72 años.",
+    "source_id": "cn-3139",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 12.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la secuencia:\n20, 25, 30, ___ , 40, 45, 50\n¿Cuál de los siguientes números es el que falta en la secuencia?\n\nAlternativas:\nA) 5\nB) 32\nC) 35\nD) 60\n\nRespuesta correcta: C) 35\n\nExplicación: 35",
+    "source_id": "cn-3189",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 13.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Compara y escribe < , > o = sobre la línea para que las expresiones sean verdaderas.\na. 6 + 4 ___ 3 + 5\nb. 3 + 1 ___ 2 + 5\nc. 5 + 5 ___ 4 + 6\nd. 9 - 2 ___ 6 - 0\ne. 1 + 8 ___ 7 + 1\nf. 5 + 4 ___ 7 + 5\ng. 8 - 7 ___ 6 - 5\nh. 2 + 7 ___ 6 + 3\n\nSolución: a. >\nb. <\nc. =\nd. >\ne. >\nf. >\ng. =\nh. =",
+    "source_id": "cn-3150",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 13"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En la casa de Andrea hay 33 plantas. En la casa de su vecina hay 16 plantas más que en la casa de Andrea. ¿Cuántas plantas tiene la vecina de Andrea?\n\nSolución: Operación:\nPara calcular cuantas plantas tiene la vecina: 33 + 16 = 49\nRespuesta:\nLa vecina de Andrea tiene 49 plantas.",
+    "source_id": "cn-3158",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 07.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En el número 51, ¿cuál es el valor del dígito\n5\n, de acuerdo a la posición que ocupa?\n\nSolución: 50",
+    "source_id": "cn-3372",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el resultado de la siguiente resta?\n$ 58 - 32$\n\nAlternativas:\nA) $ 26 $\nB) $ 27 $\nC) $ 82 $\nD) $ 90 $\n\nRespuesta correcta: A) $ 26 $\n\nExplicación: Para resolver esta resta debemos restar $58 - 32$.\nSi restamos las unidades tendremos:\n$8 - 2 = 6$\nSi restamos las decenas tendremos:\n$5 - 3 = 2$\nPor lo tanto:\n$58 - 32 = 26$.",
+    "source_id": "cn-2699",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA02 OA 15.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Juan dibujó una figura que tiene 3 lados y 3 vértices. ¿Qué figura dibujó?\n\nAlternativas:\nA) Círculo.\nB) Triángulo.\nC) Cuadrado.\nD) Rectángulo.\n\nRespuesta correcta: B) Triángulo.\n\nExplicación: Triángulo.",
+    "source_id": "cn-2884",
+    "grade": "2° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA02 OA 15"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA02 OA 15.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Juan dibujó una figura que tiene cuatro lados de igual medida. ¿Qué figura dibujó?\n\nAlternativas:\nA) Círculo.\nB) Triángulo.\nC) Cuadrado.\n\nRespuesta correcta: C) Cuadrado.\n\nExplicación: Cuadrado.",
+    "source_id": "cn-2885",
+    "grade": "2° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA02 OA 15"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA02 OA 15.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes figuras tiene 4 lados?\n\nAlternativas:\nA) Círculo.\nB) Triángulo.\nC) Cuadrado.\nD) Esfera.\n\nRespuesta correcta: C) Cuadrado.\n\nExplicación: Cuadrado.",
+    "source_id": "cn-2887",
+    "grade": "2° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA02 OA 15"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 12.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La siguiente secuencia sigue un patrón. Continúa la secuencia escribiendo los tres términos que siguen:\n130, 140, 150, _________ , __________ , ___________\n\nSolución: 130, 140, 150, 160, 170, 180",
+    "source_id": "cn-2930",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El estuche de Rosario mide 25 cm de largo y el estuche de Camilo mide 27 cm de largo. ¿Cuál estuche es el más largo?\nRespuesta: El estuche de _________________ es el más largo.\n\nSolución: El estuche de Camilo es más largo porque midió 27 cm que es mayor que los 25 cm del estuche de Rosario",
+    "source_id": "cn-2912",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA02 OA 15.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes figuras tiene 4 lados?\n\nAlternativas:\nA) Círculo.\nB) Triángulo.\nC) Pentágono.\nD) Rectángulo.\n\nRespuesta correcta: D) Rectángulo.\n\nExplicación: Rectángulo.",
+    "source_id": "cn-2889",
+    "grade": "2° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA02 OA 15"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA02 OA 15.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué figura geométrica está formada por 4 lados de igual medida?\n\nAlternativas:\nA) El triángulo\nB) El cuadrado\nC) El Rectángulo\nD) El círculo\n\nRespuesta correcta: B) El cuadrado\n\nExplicación: El cuadrado",
+    "source_id": "cn-2890",
+    "grade": "2° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA02 OA 15"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Rita mide 95 cm y Betty 81 cm. ¿Cuántos centímetros es más alta Rita que Betty?\nRespuesta: Rita es ____ cm más alta que Betty.\n\nSolución: Rita es 14 cm más alta que Betty",
+    "source_id": "cn-2834",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 13.\n- Dificultad: superficial.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Compara usando\n>, < o =\n1)\n8 ____ 18\n2)\n16 ____ 17\n3)\n15 ____ 13\n4)\n9 ____ 9\n\nSolución: 1)\n8 < 18\n2)\n16 < 17\n3)\n15 > 13\n4)\n9 = 9",
+    "source_id": "cn-2846",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 13"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Emilia tenía una colección de 36 láminas. Se le perdieron algunas láminas y le quedaron sólo 22. ¿Cuántas láminas se le perdieron?\n\nAlternativas:\nA) 13\nB) 14\nC) 24\nD) 58\n\nRespuesta correcta: B) 14\n\nExplicación: 14",
+    "source_id": "cn-2855",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En un almacen había 44 yogures en la mañana y en la tarde solo había 31 yogures. ¿Cuántos yogures menos había en la tarde que en la mañana?\n\nAlternativas:\nA) 12\nB) 13\nC) 16\nD) 75\n\nRespuesta correcta: B) 13\n\nExplicación: 13",
+    "source_id": "cn-2856",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Daniela tiene 58 cartas y Sofía tiene 31 cartas. ¿Cuántas cartas más tiene Daniela que Sofía?\n\nAlternativas:\nA) 27\nB) 29\nC) 37\nD) 89\n\nRespuesta correcta: A) 27\n\nExplicación: 27",
+    "source_id": "cn-2857",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA02 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Había 54 pájaros parados en un árbol. Algunos se fueron volando y quedaron 30. ¿Cuántos pájaros se fueron volando?\n\nAlternativas:\nA) 14\nB) 24\nC) 30\nD) 34\n\nRespuesta correcta: B) 24\n\nExplicación: 24",
+    "source_id": "cn-2859",
+    "grade": "2° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA02 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 2° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA02 OA 12.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente secuencia numérica.\n_____; 40; 38; 36; 34; 32; ____\n¿Qué números deben ir en los espacios?\n\nAlternativas:\nA) $42$ y $30$\nB) $41$ y $31$\nC) $39$ y $33$\n\nRespuesta correcta: A) $42$ y $30$\n\nExplicación: Al observar los números de la secuencia numérica:\n$40$; $38$; $36$; $34$ y $32$\npodemos reconocer que se trata de una secuencia que cuenta hacia atrás de $2$ en $2$.\nAsí, el primer número incógnito podemos descubrirlo contando hacia adelante de $2$ en $2$, a partir de $40$, obteniendo el número $42$.\nEl segundo número incógnito podemos descubrirlo contando hacia atrás de $2$ en $2$, a partir de $32$, obteniendo el número $30$.",
+    "source_id": "cn-2436",
+    "grade": "2° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA02 OA 12"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA03 OA 12.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente secuencia numérica:\n$... 55, 52, 49, 46, ...$\n¿Cuál es el patrón que forma la secuencia?\n\nAlternativas:\nA) Es una secuencia descendente (cuenta hacia atrás) de $2$ en $2$.\nB) Es una secuencia descendente (cuenta hacia atrás) de $3$ en $3$.\nC) Es una secuencia ascendente (cuenta hacia adelante) de $2$ en $2$.\nD) Es una secuencia ascendente (cuenta hacia adelante) de $3$ en $3$.\n\nRespuesta correcta: B) Es una secuencia descendente (cuenta hacia atrás) de $3$ en $3$.\n\nExplicación: Al observar la secuencia podemos evidenciar que es de carácter descendente ya que se cuenta hacia atrás.\nEl conteo que se realiza es de $3$ en $3$.\n$55 - 3= 52$\n$52 - 3 = 49$\n$49 - 3 = 46$\nSiendo así diremos que la secuencia es descendente (se cuenta hacia atrás) de $3$ en $3$.",
+    "source_id": "cn-1484",
+    "grade": "3° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA03 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA03 OA 12.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La siguiente secuencia numérica parte en $155 $ y sigue un patrón. ¿Cuál es el quinto elemento de la secuencia?\n155, 145, 135, 125, ...\n\nAlternativas:\nA) $105$\nB) $110$\nC) $115$\nD) $120$\n\nRespuesta correcta: C) $115$\n\nExplicación: En este caso tenemos una secuencia de carácter descendente (conteo hacia atrás) de $ 10 $ en $ 10 $.\nPara conocer el quinto elemento de la secuencia debemos seguir contando $ 10 $ hacia atrás a partir del $ 125 $.\nSiendo así deberíamos decir:\n125 - 10 = 115\nEl quinto elemento de la secuencia podría ser 115.",
+    "source_id": "cn-1893",
+    "grade": "3° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA03 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA03 OA 12.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La siguiente secuencia sigue un patrón. ¿Cuál es el siguiente término de la secuencia?\n20, 17, 14, 11, ...\n\nAlternativas:\nA) 12\nB) 10\nC) 9\nD) 8\n\nRespuesta correcta: D) 8\n\nExplicación: La secuencia presentada es de carácter descendente (conteo hacia atrás) y lo hace de $3$ en $3$.\nPara conocer el números que sigue es necesario decir:\n$11 - 3= 8$",
+    "source_id": "cn-1894",
+    "grade": "3° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA03 OA 12"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 02.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe \"seiscientos setenta y siete\" con números.\n________________________\n\nSolución: 677",
+    "source_id": "cn-3265",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 02.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe \"\ntrescientos dos\n\" con números.\n________________________\n\nSolución: 302",
+    "source_id": "cn-3266",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 03.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el menor número de tres cifras que se puede formar con los dígitos 3, 4 y 1?\n_____________________________\n\nSolución: El menor número es 134.",
+    "source_id": "cn-3268",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 03"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ana compró 4 cajas de nectarines. Si hay 4 nectarines en cada caja, ¿cuántos nectarines hay en total?\n\nSolución: 4 x 4 = 16\nHay 16 nectarines en total.",
+    "source_id": "cn-3270",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La Sra. Pérez compró 4 mallas de 4 mangos cada una. ¿Cuántos mangos compró en total?\n\nSolución: La Sra. Pérez compró 16 mangos en total.",
+    "source_id": "cn-3272",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Maya tiene 4 floreros y pone 3 girasoles en cada uno. ¿Cuántos girasoles pone en total?\n\nSolución: 3 • 4 = 12\nMaya pone 12 girasoles en total.",
+    "source_id": "cn-3273",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Pedro tiene 8 cajas con 7 bolitas en cada una. ¿Cuántas bolitas tiene Pedro en total?\n\nAlternativas:\nA) 48 bolitas.\nB) 56 bolitas.\nC) 64 bolitas.\nD) 72 bolitas.\n\nRespuesta correcta: B) 56 bolitas.\n\nExplicación: 56 bolitas.",
+    "source_id": "cn-3274",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En un barrio hay 4 edificios de departametos. Cada edificio tiene 8 departamentos. ¿Cuántos departamentos hay en el barrio en total?\n\nSolución: 8 x 4 = 32\nHay 32 departamentos.",
+    "source_id": "cn-3275",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 09.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Beatriz reparte 20 dulces de manera equitativa entre sus 10 amigas. ¿Cuántos dulces recibe cada amiga de Beatriz?\n\nSolución: 20 : 10 = 2\nCada amiga de Beatriz recibe 2 dulces.",
+    "source_id": "cn-3276",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 21.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el perímetro de un cuadrado cuyo lado es 6 cm?\n\nAlternativas:\nA) 12 cm\nB) 24 cm\nC) 36 cm\n\nRespuesta correcta: B) 24 cm",
+    "source_id": "cn-3162",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 21"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una florista tiene 18 rosas para repartir equitativamente en 6 ramos. ¿Cuántas rosas tendrá cada ramo?\n\nAlternativas:\nA) 6\nB) 2\nC) 3\nD) 4\n\nRespuesta correcta: C) 3\n\nExplicación: 3",
+    "source_id": "cn-3277",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 06.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En una industria se fabricaron 285 latas de bebida el día jueves, 278 el día viernes y 332 el sábado ¿Cuántas latas de bebida se fabricaron en total en esos tres días?\n\nSolución: 285 + 278 = 563\n563 + 332 = 895\nSe fabricaron 895 latas de bebida.",
+    "source_id": "cn-3282",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Javier recorrió 3 km el viernes y el sábado recorrió 3 veces esa distancia. ¿Cuánta distancia recorrió el día sábado?\n\nSolución: 3 km • 3 = 9 km\nRecorrió 9 km el día sábado.",
+    "source_id": "cn-3283",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA03 OA 12.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Completa los números que faltan en la secuencia para que continúe el patrón.\n13, 15, 17, 19, ____, ____, 25, ____, 29\n¿Cuál es el patrón de la secuencia?\nRespuesta: _____________________________________________________\n\nSolución: 21, 23, 27\nEl patrón de la secuencia es sumar 2.",
+    "source_id": "cn-3284",
+    "grade": "3° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA03 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA03 OA 12.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe el patrón que sigue la secuencia y los 3 números siguientes:\n11, 21, 31, 41,___, ___, ___\nPatrón:\n\nSolución: El patrón es sumar 10.\nLos números siguientes son: 51, 61 y 71.",
+    "source_id": "cn-3285",
+    "grade": "3° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA03 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA03 OA 12.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe el patrón que sigue la secuencia y completa los 3 números que faltan.\n75, 71, 67, 63, ___, ___, ___\nPatrón:\n\nSolución: Patrón: restar 4.\nLos 3 números siguientes son: 59, 55, 51.",
+    "source_id": "cn-3286",
+    "grade": "3° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA03 OA 12"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 22.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Manuel compró 1 kg de azúcar. Él usó $\\frac{1}{4}$ kg para hornear un queque y le regaló 300 g a la señora Clara. ¿Cuántos gramos de azúcar le quedan?\n\nSolución: $\\frac{1}{4}$ kg equivale a 250g\nMás lo que le regaló a la señora Clara (300g), en total ha gastado 550g (250g + 300g = 550g)\nComo 1 kg equivale a 1 000 g, para saber cuánta azúcar le queda se resta con los 550 que ha gastado:\n1 000 - 550 = 450\nPor lo tanto, le quedan 450 g de azúcar.",
+    "source_id": "cn-3287",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 22"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 22.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Marta compró $\\frac{3}{4}$ kg de mermelada y Andrea compró 600 g de mermelada. ¿Quién compró más mermelada? Justifica tu respuesta.\n\nSolución: Marta compró más mermelada porque $\\frac{3}{4}$ kg equivalen a 750 g y 750 es mayor que 600.",
+    "source_id": "cn-3288",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 22"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 22.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuántos gramos equivalen a 1 kilogramo?\n\nAlternativas:\nA) 100 g\nB) 500 g\nC) 800 g\nD) 1000 g\n\nRespuesta correcta: D) 1000 g\n\nExplicación: 1000 g",
+    "source_id": "cn-3289",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 22"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 22.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es la masa de un maletín aproximadamente?\n\nAlternativas:\nA) 5 g\nB) 5 kg\nC) 40 g\nD) 80 kg\n\nRespuesta correcta: B) 5 kg\n\nExplicación: 5 kg",
+    "source_id": "cn-3290",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 22"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 22.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Florencia tiene 90 g de azúcar en una bolsa, 400 g en un tarro y $\\frac{1}{2}$ kg en una caja. ¿Cuánta azúcar tiene en total? ¿Tiene más o menos de 1 kg de azúcar?\n\nSolución: $\\frac{1}{2}$ equivale a 500 g\nEntonces, sumar las cantidades: 90 g + 400 g + 500 g = 990 g\nPor lo tanto tiene menos de 1 kg",
+    "source_id": "cn-3291",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 22"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 06.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Daniela quiere tener 100 cartas coleccionables. Si actualmente tiene 55, ¿cuántas cartas más necesita?\n\nAlternativas:\nA) 35\nB) 45\nC) 155\nD) 65\n\nRespuesta correcta: B) 45\n\nExplicación: 45",
+    "source_id": "cn-2858",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 06.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El equipo blanco marcó 63 puntos en un juego de dos tiempos. Si en el primer tiempo marcó 27 puntos, ¿cuántos puntos marcó en el segundo tiempo?\n\nAlternativas:\nA) 26\nB) 36\nC) 44\nD) 49\n\nRespuesta correcta: B) 36\n\nExplicación: 36",
+    "source_id": "cn-2860",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 06.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Joaquín está jugando un juego de carreras de autos.\nSi tenía $250$ puntos y luego perdió $50$ puntos.\n¿Qué alternativa representa los puntos que tiene Joaquín ahora?\n\nAlternativas:\nA) $250 + 50 = 300$\nB) $250 - 50 = 200$\nC) $50 + 50 = 100$\nD) $250 + 250 = 500$\n\nRespuesta correcta: B) $250 - 50 = 200$\n\nExplicación: Se tiene $250$ puntos y pierde $50$ significa que es una sustracción.\nEntonces:\n$$250 - 50 = 200 \\text{ puntos}$$",
+    "source_id": "cn-1731",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 08.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: María tiene $6$ maceteros diferentes y en cada uno plantó $3$ flores. ¿Cuántas flores plantó María en total?\n\nAlternativas:\nA) $2$ flores.\nB) $3$ flores.\nC) $9$ flores.\nD) $18$ flores.\n\nRespuesta correcta: D) $18$ flores.\n\nExplicación: Basta con multiplicar $3$ por $6$ para obtener la respuesta $3$ x $6 = 18$ flores en total.",
+    "source_id": "cn-1733",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 08"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA03 OA 21.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Para un trabajo de artes visuales, Sofía decora con una cinta todo el contorno de un cuadrado de lado 4 cm. Su compañero Eduardo decora todo el contorno de un rectángulo de ancho 6cm y largo 10 cm. ¿Cuánta cinta necesita cada uno para decorar el contorno de su figura?\nSofía necesita _____ cm de cinta.\nEduardo necesita _____ cm de cinta.\n\nSolución: Sofía necesita 16 cm de cinta y Eduardo 32 cm.\nPara saber cuánta cinta necesita cada uno debemos calcular el perímetro de las figuras correspondientes:\nSofía tiene un cuadrado de lado 4cm. Su perímetro es: 4cm + 4cm + 4cm + 4cm = 16 cm.\nEduardo tiene un rectángulo de 10cm y 6cm. Su perímetro es: 10cm + 10cm + 6cm + 6cm = 32cm.",
+    "source_id": "cn-1737",
+    "grade": "3° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA03 OA 21"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 10.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Fernanda compra una bolsa de galletas que cuesta 760 pesos y paga con un billete de 1 000 pesos. ¿Cuánto dinero recibirá de vuelto?\n\nAlternativas:\nA) Recibirá $140 de vuelto.\nB) Recibirá $240 de vuelto.\nC) Recibirá $260 de vuelto.\nD) Recibirá $340 de vuelto.\n\nRespuesta correcta: B) Recibirá $240 de vuelto.\n\nExplicación: Se debe resolver 1000 - 760, lo que da como resultado 240.",
+    "source_id": "cn-2452",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 10"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 10.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Roberto quiere comprar huevos. Si los huevos se venden a 210 pesos cada uno, ¿cuál es la cantidad máxima de huevos que podrá comprar con 1 000 pesos?\n\nAlternativas:\nA) 2 huevos.\nB) 3 huevos.\nC) 4 huevos.\nD) 5 huevos.\n\nRespuesta correcta: C) 4 huevos.\n\nExplicación: 4 huevos.\nCon 4 huevos debe pagar 840 pesos, si comprara uno más (es decir 5) debería pagar 1 050 pesos, por lo tanto no le alcanza.",
+    "source_id": "cn-2454",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 10"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 3° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA03 OA 10.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Emilia tenía 1 000 pesos. Compró un sobre de láminas a 300 pesos y un paquete de calcomanías a 230 pesos.\n¿Cuánto dinero le quedó después de comprar?\n\nAlternativas:\nA) 530 pesos.\nB) 630 pesos.\nC) 470 pesos.\nD) 540 pesos.\n\nRespuesta correcta: C) 470 pesos.\n\nExplicación: Para conocer cuánto dinero le quedó a Emilia, debemos realizar una resta entre la cantidad inicial (1 000 pesos) y la cantidad gastada (300 y 230 pesos).\n1 000 - 300 = 700\n700 - 230 = 470\nPor lo tanto a Emilia le quedaron 470 pesos.",
+    "source_id": "cn-2455",
+    "grade": "3° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA03 OA 10"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Descubre el número misterioso que:\ntiene solo 4 dígitos y todos son diferentes,\ncada uno de sus dígitos es un número impar,\nninguno de sus dígitos es un 9,\nsu dígito menor está en el lugar de las unidades de mil,\nsu dígito mayor está en el lugar de las unidades y\nes el mayor de los dos números que cumplen con todas las características anteriores.\nRespuesta: El número misterioso es ..................................\n\nSolución: El número misterioso es 1537\nUnidad de Mil\nCentena\nDecena\nUnidad\n1\n5\n3\n7",
+    "source_id": "cn-3233",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Descubre el número misterioso que:\ntiene 5 dígitos y todos son diferentes,\ntiene un 4 en el lugar de las decenas de mil,\nninguno de sus dígitos es 0, y\nes el número menor que cumple con todas las condiciones anteriores.\nRespuesta: El número misterioso es .............................\n\nSolución: El número misterioso es 4 1235\nDecena de Mil\nUnidad de Mil\nCentena\nDecena\nUnidad\n4\n1\n2\n3\n5",
+    "source_id": "cn-3234",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Raúl compró láminas de fútbol y pagó con un billete de mil pesos. ¿Cuánto dinero le sobró si gastó 899 pesos ?\n\nAlternativas:\nA) 110 pesos.\nB) 101 pesos.\nC) 100 pesos.\nD) 99 pesos.\n\nRespuesta correcta: B) 101 pesos.\n\nExplicación: 101 pesos.",
+    "source_id": "cn-3370",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El mes pasado el quiosco vendió 148 paquetes de galletas y este mes vendió 163. ¿Cuántos paquetes más vendió este mes con respecto al mes pasado?\n\nAlternativas:\nA) 311\nB) 115\nC) 25\nD) 15\n\nRespuesta correcta: D) 15\n\nExplicación: 15",
+    "source_id": "cn-3371",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 06.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Laura comparte equitativamente 60 frazadas entre 5 hogares de ancianos. ¿Cuántas frazadas recibe cada hogar?\n\nSolución: 60 ÷ 5 = 12\nCada hogar recibirá 12 frazadas.",
+    "source_id": "cn-3339",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Completa:\n6 100 es ______ decenas más de 6 000.\n\nSolución: 6 100 - 6 000 = 100 = 10 decenas",
+    "source_id": "cn-3294",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Completa los espacios en blanco con los números correctos.\nA. Hay ______ decenas en 150.\nB. Hay _____ decenas en 4900.\n\nSolución: 150 : 10 = 15\nB. 4900 : 10 = 490",
+    "source_id": "cn-3295",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Soy un número de 4 dígitos.\nEl dígito que está en las unidades es el 2.\nEl dígito que está en la unidad de mil es 4 más que el de las unidades.\nEl dígito que está en la decena es 2 más que el dígito de la unidad de mil.\nEl dígito de la centena es el mismo que el de la decena.\n¿Qué número soy?\n\nSolución: 6 882",
+    "source_id": "cn-3296",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué resultado se obtiene al sumar 92 unidades, 20 decenas, 2 centenas y 2 unidades de mil?\n\nSolución: 2 492",
+    "source_id": "cn-3298",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: 1 050 en palabras es:\n\nAlternativas:\nA) mil quinientos.\nB) diez mil quinientos.\nC) mil cincuenta.\nD) diez mil cincuenta.\n\nRespuesta correcta: C) mil cincuenta.",
+    "source_id": "cn-3299",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Si sumas 358 a la diferencia entre 967 y 552, la respuesta es:\n\nAlternativas:\nA) 687\nB) 643\nC) 737\nD) 773\n\nRespuesta correcta: D) 773",
+    "source_id": "cn-3302",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Raimundo tiene 189 calcomanías más que David. David tiene 98 calcomanías más que Cristóbal. ¿Cuántas calcomanías más tiene Raimundo que Cristóbal?\n\nSolución: 189 + 98 = 287\nRaimundo tiene 287 calcomanías más que Cristóbal.",
+    "source_id": "cn-3303",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La señora Ana compró 3 lechugas para la semana. Cada una le costó 850 pesos.\n¿Cuánto dinero gastó en total?\n\nAlternativas:\nA) 853 pesos.\nB) 1 700 pesos.\nC) 2 450 pesos.\nD) 2 550 pesos.\n\nRespuesta correcta: D) 2 550 pesos.\n\nExplicación: 2 550 pesos.",
+    "source_id": "cn-3305",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La pista atlética del estadio del colegio mide 400 metros de contorno. Alicia corrió 7 vueltas para su entrenamiento.\n¿Cuántos metros corrió en total?\n\nAlternativas:\nA) 280 metros.\nB) 2 800 metros.\nC) 28 000 metros.\n\nRespuesta correcta: B) 2 800 metros.\n\nExplicación: 2 800 metros.",
+    "source_id": "cn-3306",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una bolsa de clips cuesta $110. ¿Cuánto cuestan 9 bolsas de clips?\n\nSolución: 110 x 9 = 990\n9 bolsas de clip cuestan $110.",
+    "source_id": "cn-3307",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 06.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En la escuela de Martín organizaron una cicletada. A cada estudiante que participa se le entregan 2 invitaciones para sus familiares. Si el total se entregan 246 invitaciones, ¿cuántos estudiantes participan de la cicletada?\n\nAlternativas:\nA) 492\nB) 248\nC) 244\nD) 123\n\nRespuesta correcta: D) 123\n\nExplicación: 123",
+    "source_id": "cn-3308",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 06"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 06.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Para el paseo de fin de año, los apoderados de una escuela organizan un campamento. Para ello, deben conseguir carpas para alojar a 64 estudiantes, 2 profesores y 2 apoderados. Si en cada carpa cabe un máximo de 4 personas, ¿cuántas carpas deben conseguir como mínimo?\n\nAlternativas:\nA) 17\nB) 16\nC) 15\nD) 12\n\nRespuesta correcta: A) 17\n\nExplicación: 17",
+    "source_id": "cn-2806",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Elena trabajó 60 horas en marzo, 62 horas en abril y 58 horas en mayo. ¿Cuántas horas trabajó en total durante esos tres meses?\n\nAlternativas:\nA) 280 horas.\nB) 180 horas.\nC) 170 horas.\n\nRespuesta correcta: B) 180 horas.\n\nExplicación: 180 horas.",
+    "source_id": "cn-2813",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 08.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Dos alumnas discuten acerca de las fracciones.\nPatricia dice que la fracción $\\frac{6}{6}$ es mayor que $\\frac{3}{3}$.\nCristina dice que ambas fracciones son iguales.\n¿Quién tiene la razón? Argumenta tu respuesta.\nRespuesta....................................................................................................................................................................\n\nSolución: Cristina tiene la razón. Las dos fracciones son iguales, ya que ambas representan el entero 1.",
+    "source_id": "cn-2939",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 08"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 09.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Pedro repartió una pizza en partes iguales. Se comió $\\frac{1}{4}$ de la pizza y le dio el resto a Susana. ¿Qué fracción de la pizza le dio a Susana?\n\nAlternativas:\nA) $\\frac{1}{4}$\nB) $\\frac{2}{4}$\nC) $\\frac{3}{4}$\n\nRespuesta correcta: C) $\\frac{3}{4}$\n\nExplicación: $\\frac{3}{4}$",
+    "source_id": "cn-2940",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 09"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un agricultor cosechó tomates y los guardó en cajones. Cada cajón contiene aproximadamente 9 kilogramos de tomates y llevará 120 cajones al mercado.\nAproximadamente, ¿cuántos kilogramos de tomates llevará al mercado?\n\nAlternativas:\nA) 108 kg.\nB) 129 kg.\nC) 1 080 kg.\nD) 9 180 kg.\n\nRespuesta correcta: C) 1 080 kg.\n\nExplicación: 1 080 kg.",
+    "source_id": "cn-2908",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 06.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un albúm tiene 3 fotos en cada una de sus páginas y, en total, tiene 39 fotos. ¿Cuántas páginas tiene el albúm?\n\nAlternativas:\nA) 39 páginas.\nB) 33 páginas.\nC) 13 páginas.\nD) 12 páginas.\n\nRespuesta correcta: C) 13 páginas.\n\nExplicación: 13 páginas.",
+    "source_id": "cn-2913",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 06"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Susana compró en una librería y gastó 599 pesos. Ella pagó al vendedor con un billete de 1 000 pesos. ¿Qué operación aritmética permite calcular el vuelto que recibió?\n\nAlternativas:\nA) 1 000 + 599\nB) 1 000 - 599\nC) 1 000 : 599\nD) 1 000 • 599\n\nRespuesta correcta: B) 1 000 - 599\n\nExplicación: 1 000 - 599",
+    "source_id": "cn-2914",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Juan quiere comprarse un libro de comics que cuesta 3 000 pesos. Si él ahorrará 500 pesos por mes, ¿cuántos meses tendrá que ahorrar para comprarse el libro?\n\nAlternativas:\nA) 30 meses.\nB) 10 meses.\nC) 9 meses.\nD) 6 meses\n\nRespuesta correcta: D) 6 meses\n\nExplicación: 6 meses.",
+    "source_id": "cn-2919",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Paula compró pan en el almacén de su barrio. Pagó con un billete de 1 000 pesos y le dieron de vuelto 349 pesos. ¿Cuánto le costó el pan?\n\nAlternativas:\nA) 751 pesos.\nB) 749 pesos.\nC) 669 pesos.\nD) 651 pesos.\n\nRespuesta correcta: D) 651 pesos.\n\nExplicación: 651 pesos.",
+    "source_id": "cn-2920",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: María ahorró 200 pesos en una semana. La semana siguiente ahorró 402 pesos. ¿Cuánto dinero ahorró en total?\n\nAlternativas:\nA) 202 pesos.\nB) 422 pesos.\nC) 620 pesos.\nD) 602 pesos.\n\nRespuesta correcta: D) 602 pesos.\n\nExplicación: 602 pesos.",
+    "source_id": "cn-2922",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Victoria tiene 567 pesos y su papá le regala una moneda de 50 pesos, dos monedas de 100 pesos y tres monedas de 10 pesos. ¿Con cuánto dinero se queda finalmente?\n\nAlternativas:\nA) 847 pesos.\nB) 747 pesos.\nC) 727 pesos.\nD) 627 pesos.\n\nRespuesta correcta: A) 847 pesos.\n\nExplicación: 847 pesos.",
+    "source_id": "cn-2923",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Susana tiene una moneda de 500 pesos, 2 monedas de 100 pesos, una moneda de 50 pesos y cuatro de 10 pesos. Ella quiere comprar un regalo para una amiga que cuesta 978 pesos. ¿Cuánto dinero le falta?\n\nAlternativas:\nA) 318 pesos.\nB) 228 pesos.\nC) 188 pesos.\nD) 128 pesos.\n\nRespuesta correcta: C) 188 pesos.\n\nExplicación: 188 pesos.",
+    "source_id": "cn-2925",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Luis hizo una colecta de dinero en su curso para comprar una caja de lápices. Él reunió 690 pesos, pero la caja de lápices cuesta 889 pesos. ¿Cuánto dinero le falta?\n\nAlternativas:\nA) 119 pesos.\nB) 199 pesos.\nC) 219 pesos.\nD) 299 pesos.\n\nRespuesta correcta: B) 199 pesos.\n\nExplicación: 199 pesos.",
+    "source_id": "cn-2926",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes opciones tiene por resultado 342?\n\nAlternativas:\nA) 3 000 + 400 + 2\nB) 300 + 40 + 2\nC) 30 + 4 + 2\nD) 3 + 4 + 2\n\nRespuesta correcta: B) 300 + 40 + 2\n\nExplicación: 300 + 40 + 2",
+    "source_id": "cn-2896",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Juan compró un lápiz con un billete de 1 000 pesos y le dieron de vuelto 520 pesos. ¿Cuánto le costó el lápiz?\n\nAlternativas:\nA) 580 pesos.\nB) 520 pesos.\nC) 480 pesos.\n\nRespuesta correcta: C) 480 pesos.\n\nExplicación: 480 pesos.",
+    "source_id": "cn-2897",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Susana tiene 280 láminas de fútbol. Ella tiene 190 láminas más que Irene. ¿Cuántas láminas tiene Irene?\n\nAlternativas:\nA) 470\nB) 190\nC) 90\n\nRespuesta correcta: C) 90\n\nExplicación: 90",
+    "source_id": "cn-2898",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es el más cercano a la diferencia entre 714 y 392?\n\nAlternativas:\nA) 100\nB) 200\nC) 300\nD) 400\n\nRespuesta correcta: C) 300\n\nExplicación: 300",
+    "source_id": "cn-2899",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En el terreno de Marcos hay sembradas 184 filas de repollos. En cada fila hay 9 repollos. ¿Cuántos repollos hay sembrados en total?\n\nAlternativas:\nA) 926\nB) 1 626\nC) 1 556\nD) 1 656\n\nRespuesta correcta: D) 1 656\n\nExplicación: 1 656",
+    "source_id": "cn-2902",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: superficial.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Calcula las siguientes multiplicaciones. Muestra tu trabajo de desarrollo.\na)\n667 • 5 =\nb)\n452 • 4 =\n\nSolución: a) 3 335\nb) 1 808",
+    "source_id": "cn-2905",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 4° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA04 OA 05.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Resuelve:\n749 · 8 =\n\nSolución: 749 · 8 = 5992",
+    "source_id": "cn-2906",
+    "grade": "4° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA04 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 04.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Carmen debe repartir en partes iguales 908 láminas entre sus 4 hijos, ¿cuántas láminas recibirá cada hijo?\n\nAlternativas:\nA) 202\nB) 225\nC) 227\n\nRespuesta correcta: C) 227\n\nExplicación: 227",
+    "source_id": "cn-1494",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 04"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 14.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente sucesión de números: 1, 5, 9, ..., 17, 21, ... ¿cuál es el cuarto término, si el patrón no cambia?\n\nAlternativas:\nA) $11$\nB) $13$\nC) $15$\nD) $14$\n\nRespuesta correcta: B) $13$\n\nExplicación: $13$\nPodemos ver que los números de la secuenciase presentan de $4$ en $4$:\n1, 5, 9, 13, 17, 21, ....\nAsí que el cuarto término es $13$.",
+    "source_id": "cn-1873",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 14"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 14.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Selecciona la secuencia numérica que responde al siguiente patrón de formación:\n\"Al número anterior se le resta su mitad\"\n\nAlternativas:\nA) 100, 50, 25 , 10\nB) 80, 40, 20, 5\nC) 30, 60, 90, 120\nD) 120, 60, 30, 15\n\nRespuesta correcta: D) 120, 60, 30, 15\n\nExplicación: Observando cada secuencia podemos descubrir cuales son distractores usando la regla del enunciado:\nLa alternativa A es falsa, pues la mitad de 25 no es 10.\nLa alternativa B es falsa, pues la mitad de 20 no es 5.\nLa alternativa C es falsa, pues es una secuencia ascendente.\nPor lo tanto, solo la alternativa D puede ser la correcta ya de que cumple con la regla:\n120 - (120 - 60) = 60\n60 - (60 - 30 ) = 30\n30 - (30: 2 ) = 15",
+    "source_id": "cn-1897",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 14"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 14.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente secuencia:\n$45$ ; ___ ; $53$ ; $57$ ; $61$\n¿Qué número falta en la secuencia si el patrón no cambia?\n\nAlternativas:\nA) $44$\nB) $48$\nC) $49$\nD) $50$\n\nRespuesta correcta: C) $49$\n\nExplicación: La secuencia es creciente de cuatro en cuatro, entonces el número que viene después del $45$ es $45 + 4 = 49$.",
+    "source_id": "cn-1909",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 14"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 13.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ana y Tomás corren 200 metros planos en una competencia escolar. Ana demoró 1,5 segundos menos que Tomás para llegar a la meta. Tomás demoró 25,03 segundos. ¿Cuanto demoró Ana en llegar a la meta?\n\nAlternativas:\nA) 26,53 segundos.\nB) 25,18 segundos.\nC) 24,53 segundos.\nD) 23,53 segundos.\n\nRespuesta correcta: D) 23,53 segundos.\n\nExplicación: 23,53 segundos",
+    "source_id": "cn-3241",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 13"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 13.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Cristina y Juan compraron dos pizzas con distintos ingredientes, pero igual tamaño. En conjunto comieron $\\frac{1}{2}$ de una pízza y $\\frac{1}{4}$ de la otra. ¿Cuánta pizza comieron en total?\n\nAlternativas:\nA) $\\frac{2}{6}$\nB) $\\frac{3}{4}$\nC) $\\frac{1}{4}$\nD) $\\frac{3}{8}$\n\nRespuesta correcta: B) $\\frac{3}{4}$\n\nExplicación: $\\frac{3}{4}$",
+    "source_id": "cn-3232",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 13"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Este número misterioso tiene seis dígitos. Si cambias el orden de sus dígitos, en cualquier orden en que los pongas seguirá siendo el mismo número. Si le sumas una unidad a este número, se convierte en un número de 7 dígitos. ¿Cuál es el número misterioso?\nR:\n\nSolución: El número misterioso es 999 999",
+    "source_id": "cn-3235",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 13.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un supermercado entregó 300 cupones para canjear un nuevo champú. Sólo $\\frac{2}{5}$ de ellos fueron canjeados. ¿Cuántos cupones no fueron canjeados?\n\nAlternativas:\nA) 300\nB) 180\nC) 120\nD) 60\n\nRespuesta correcta: B) 180\n\nExplicación: 180",
+    "source_id": "cn-3238",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 13"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 06.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Sara tiene 15 años. Matías tiene el doble de años que Sara. ¿Cuántos años tendrá Matías en 5 años más?\nR:\n\nSolución: Operación:\n15•2 + 5 = 35\nEn cinco años más, Matías tendrá 35 años.",
+    "source_id": "cn-3185",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 06"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un número es dividido entre 3. Su cociente es 12 y el resto es 2. ¿Cuál es el número?\n\nAlternativas:\nA) 2\nB) 6\nC) 34\nD) 38\n\nRespuesta correcta: D) 38\n\nExplicación: El número es 38.",
+    "source_id": "cn-3346",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 04.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Entre 6 estudiantes se reparten 500 láminas equitativamente. ¿Cuántas láminas recibe cada uno? ¿Cuántas láminas sobran?\n\nSolución: Cada uno recibe 83 láminas. Sobran 2 láminas.",
+    "source_id": "cn-3347",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 10.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La fracción $\\frac{1}{10}$ expresada como número decimal es:\n\nAlternativas:\nA) 0,01\nB) 0,1\nC) 10\nD) 100\n\nRespuesta correcta: B) 0,1",
+    "source_id": "cn-3348",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 10"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 10.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La fracción $\\frac{2}{5}$ expresada como número decimal es:\n\nAlternativas:\nA) 0,04\nB) 0,2\nC) 0,4\nD) 2\n\nRespuesta correcta: C) 0,4\n\nExplicación: 0,4",
+    "source_id": "cn-3349",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 10"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 10.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La fracción $\\frac{3}{4}$ expresada como número decimal es:\n\nAlternativas:\nA) 0,075\nB) 0,75\nC) 1,75\nD) 75\n\nRespuesta correcta: B) 0,75",
+    "source_id": "cn-3350",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 10"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 10.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El número decimal 0,75 expresado como fracción corresponde a:\n\nAlternativas:\nA) $\\frac{7}{5}$\nB) $\\frac{5}{7}$\nC) $\\frac{1}{4}$\nD) $\\frac{3}{4}$\n\nRespuesta correcta: D) $\\frac{3}{4}$",
+    "source_id": "cn-3351",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 10"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es el mayor?\n\nAlternativas:\nA) 5,23\nB) 5,123\nC) 2,99\nD) 2,999\n\nRespuesta correcta: A) 5,23\n\nExplicación: 5,23",
+    "source_id": "cn-3352",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: José puede escribir 648 palabras en 9 minutos. ¿Cuántas palabras puede escribir en 1 minuto?\n\nAlternativas:\nA) 7\nB) 70\nC) 72\n\nRespuesta correcta: C) 72\n\nExplicación: 72",
+    "source_id": "cn-3356",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 26.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La tabla muestra la cantidad de dinero que Javiera ganó en su tienda cada día de la semana pasada.\nDía\nCantidad de dinero\nLunes\n$ 203 000\nMartes\n$ 157 000\nMiércoles\n$ 223 000\nJueves\n$ 309 000\nViernes\n$ 471 000\nSábado\n$ 594 000\nDomingo\n$ 536 000\n$\\\\$\n¿Cuánto dinero ganó el sábado y domingo en total?\n\nAlternativas:\nA) $ 1 065 000\nB) $ 1 130 000\nC) $ 1 140 000\nD) $ 1 155 000\n\nRespuesta correcta: B) $ 1 130 000\n\nExplicación: $ 1 130 000",
+    "source_id": "cn-3357",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 26"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La Srta. Gómez compró 34 bolsas de bolitas. Si cada bolsa contenía 12 bolitas, ¿cuántas bolitas compró en total?\n\nSolución: 34 x 12 = 408\nEn total compró 408 bolitas.",
+    "source_id": "cn-3343",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 03.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La multiplicación 27 • 18 tiene el mismo resultado que:\n\nAlternativas:\nA) 27 • 10 + 8\nB) 27 • 8 + 10\nC) (27 • 10) + (27 • 8)\nD) 20 + 7 • (8 + 10)\n\nRespuesta correcta: C) (27 • 10) + (27 • 8)",
+    "source_id": "cn-3344",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 03"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 10.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La fracción $\\dfrac{9}{5}$ escrita como número decimal es equivalente a:\n\nAlternativas:\nA) $9,5$\nB) $5,9$\nC) $1,5$\nD) $1,8$\n\nRespuesta correcta: D) $1,8$\n\nExplicación: Para convertir la fracción $\\dfrac{9}{5}$ corresponde realizar la división $9\\div 5$, es decir,\n$9\\div 5=1, 8$\nPor lo tanto, la fracción $\\dfrac{9}{5}$ es equivalente a $1,8$\nO también pueden amplificar la fracción\n$\\dfrac{9}{5}$\npara transformarla a fracción decimal\n$\\dfrac{18}{10}$",
+    "source_id": "cn-2634",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 10"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué número es igual a 3 unidades + 5 decenas + 4 centenas + 6 unidades de mil?\n\nAlternativas:\nA) 35 460\nB) 3 546\nC) 6 453\nD) 60 453\n\nRespuesta correcta: C) 6 453\n\nExplicación: 6 453",
+    "source_id": "cn-2812",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es el más grande?\n\nAlternativas:\nA) 654 564\nB) 654 546\nC) 654 645\nD) 654 654\n\nRespuesta correcta: D) 654 654\n\nExplicación: 654 654",
+    "source_id": "cn-2814",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El número 9 568 317 escrito en palabras es:\n\nAlternativas:\nA) Nueve mil quinientos sesenta y ocho trescientos diecisiete.\nB) Nueve millones quinientos sesenta y ocho trescientos diecisiete.\nC) Nueve mil quinientos sesenta y ocho trescientos diecisiete mil.\nD) Nueve millones quinientos sesenta y ocho mil trescientos diecisiete.\n\nRespuesta correcta: D) Nueve millones quinientos sesenta y ocho mil trescientos diecisiete.\n\nExplicación: Nueve millones quinientos sesenta y ocho mil trescientos diecisiete.",
+    "source_id": "cn-2815",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: 15 centenas + 9 unidades es igual a:\n\nAlternativas:\nA) 159\nB) 195\nC) 1 590\nD) 1 509\n\nRespuesta correcta: D) 1 509\n\nExplicación: 1509",
+    "source_id": "cn-2816",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuántas centenas se pueden formar con 5 637 unidades?\n\nAlternativas:\nA) 5\nB) 56\nC) 563\nD) 5 637\n\nRespuesta correcta: B) 56\n\nExplicación: 56",
+    "source_id": "cn-2817",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números corresponde a 5 millones 80 mil?\n\nAlternativas:\nA) 5 800 000\nB) 5 008 000\nC) 5 000 080\nD) 5 080 000\n\nRespuesta correcta: D) 5 080 000\n\nExplicación: 5 080 000",
+    "source_id": "cn-2818",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes expresiones numéricas es igual a 83 · 55?\n\nAlternativas:\nA) 80 · (3 + 55)\nB) (55 · 80) + 3\nC) (80 · 55) + (3 · 55)\nD) (80 · 55) + (80 · 3)\n\nRespuesta correcta: C) (80 · 55) + (3 · 55)\n\nExplicación: (80 · 55) + (3 · 55)",
+    "source_id": "cn-2819",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 01.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el número representado por $8 \\cdot 100 000+5 \\cdot 1 000+4 \\cdot 100+2 \\cdot 10+9$?\n\nAlternativas:\nA) $85 429$\nB) $805 429$\nC) $850 429$\nD) $854 290$\n\nRespuesta correcta: B) $805 429$\n\nExplicación: $805 429$",
+    "source_id": "cn-2700",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 01"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La profesora llevó una bolsa de chapitas sobre el medio ambiente a la escuela. Después de entregarle $15$ chapitas a cada uno de los $9$ estudiantes del taller de medio ambiente, le quedaron $5$ chapitas sin entregar. ¿Cuántas chapitas llevó a la escuela la profesora?\n\nAlternativas:\nA) $140$ chapitas.\nB) $135$ chapitas.\nC) $100$ chapitas.\nD) $95$ chapitas.\n\nRespuesta correcta: A) $140$ chapitas.",
+    "source_id": "cn-2701",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 14.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuáles son los siguientes 4 términos en la secuencia numérica en la que el primer término es 1 y el patrón de formación es \"el doble del anterior más tres\"?\n1; ___; ___; ___; ___\n\nAlternativas:\nA) $ 5 , 13 , 29, 61 $\nB) $ 5, 14, 31, 65 $\nC) $ 5, 12, 27, 57 $\nD) $ 5, 13, 29, 60 $\n\nRespuesta correcta: A) $ 5 , 13 , 29, 61 $\n\nExplicación: Siguiendo la idea del enunciado el primer término es $1$ luego los siguientes serán el doble del anterior más tres es decir:\n$2^{\\circ}$ término $=1\\cdot2+3=2+3=5$\n$3^{\\circ}$ término $=5\\cdot2+3=10+3=13$\n$4^{\\circ}$ término $=13\\cdot2+3=26+3=29$\n$5^{\\circ}$ término $=29\\cdot2+3=58+3=61$",
+    "source_id": "cn-2702",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 14"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 13.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una atleta, como entrenamiento, trota 10,5 km el sábado y el domingo 5,05 km menos que el sábado. ¿Cuántos km trota el domingo?\n\nAlternativas:\nA) 15,55 km.\nB) 10,505 km\nC) 5,55 km.\nD) 5,45 km\n\nRespuesta correcta: D) 5,45 km\n\nExplicación: 5,45 km.",
+    "source_id": "cn-2871",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 13"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 23.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Juan obtiene las siguientes notas en tres pruebas de Ciencias:\nPrimera prueba: 7\nSegunda prueba: 6,5\nTercera prueba: 4,5\n¿Cuál es el promedio de sus tres notas en Ciencias?\n\nAlternativas:\nA) 6,0\nB) 5,6\nC) 3,9\n\nRespuesta correcta: A) 6,0\n\nExplicación: 6,0",
+    "source_id": "cn-2872",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 23"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 23.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un equipo de fútbol, durante un campeonato que dura 12 fechas, ha anotado los siguientes goles por partido:\n4, 2, 3, 1, 4, 3, 0, 5, 4, 3, 2, 5\n¿Cuál es el promedio de goles por partido que anotó este equipo en este campeonato?\nEscribe tus cálculos y respuesta aquí:\n\nSolución: 3 goles",
+    "source_id": "cn-2873",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 23"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 23.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Explica cómo calcular el promedio entre los números 3, 7 y 8.\nEscribe tu respuesta aquí:\n\nSolución: Se suman los tres números, obtenemos 18 y el resultado se divide por 3.",
+    "source_id": "cn-2874",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 23"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 23.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un equipo de fútbol, durante un campeonato que dura 12 fechas, ha anotado los siguientes goles por partido:\n1, 2, 0, 4, 1, 3, 2, 0, 2, 3, 2, 4\n¿Cuál es el promedio de goles que anotó este equipo en el campeonato?\n\nAlternativas:\nA) 1\nB) 2\nC) 3\nD) 4\n\nRespuesta correcta: B) 2\n\nExplicación: 2",
+    "source_id": "cn-2878",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 23"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 24.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En una máquina de pelotitas hay 10 rojas, 75 azules, 90 verdes y 125 amarillas. Samuel coloca una moneda en la máquina y sale una pelotita. ¿Qué posibilidad tiene de que le salga una pelotita roja?\n\nAlternativas:\nA) Seguro.\nB) Posible.\nC) Imposible.\n\nRespuesta correcta: B) Posible.\n\nExplicación: Posible.",
+    "source_id": "cn-2880",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 24"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 15.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Alicia cosechó 50 manzanas de su huerta. Ella vendió algunas manzanas y se quedó con 20.\n¿Cuál es la ecuación que permite saber cuántas manzanas vendió?\n\nAlternativas:\nA) $x$ - 20 = 50\nB) 20 - $x$ = 50\nC) $x$ - 50 = 20\nD) 50 - $x$ = 20\n\nRespuesta correcta: D) 50 - $x$ = 20\n\nExplicación: 50 - $x$ = 20",
+    "source_id": "cn-2945",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 15"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 14.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa los siguientes ejemplos:\n1 + 3 = 4\n1 + 3 + 5 = 9\n1 + 3 + 5 + 7 = 16\n1 + 3 + 5 + 7 + 9 = 25\nDe acuerdo con el esquema sugerido por los cuatro ejemplos de arriba, ¿cuántos números enteros impares consecutivos se necesitan para que la suma sea 144?\n\nAlternativas:\nA) 9\nB) 12\nC) 15\nD) 36\n\nRespuesta correcta: B) 12\n\nExplicación: 12",
+    "source_id": "cn-2821",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 14"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes fracciones es equivalente a $\\frac{5}{6}$ ?\n\nAlternativas:\nA) $\\frac{5}{12}$\nB) $\\frac{6}{12}$\nC) $\\frac{10}{12}$\nD) $\\frac{11}{12}$\n\nRespuesta correcta: C) $\\frac{10}{12}$",
+    "source_id": "cn-2835",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Juan tiene 4 autos de juguete rojos, 5 azules y 2 verdes. ¿Cuál es la fracción de autos de juguete azules que tiene?\n\nAlternativas:\nA) $\\frac{5}{4}$\nB) $\\frac{5}{9}$\nC) $\\frac{5}{2}$\nD) $\\frac{11}{5}$\n\nRespuesta correcta: C) $\\frac{5}{2}$\n\nExplicación: $\\frac{5}{11}$",
+    "source_id": "cn-2836",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes fracciones es la mayor?\n\nAlternativas:\nA) $\\frac{4}{5}$\nB) $\\frac{3}{4}$\nC) $\\frac{5}{8}$\nD) $\\frac{7}{10}$\n\nRespuesta correcta: A) $\\frac{4}{5}$\n\nExplicación: $\\frac{4}{5}$",
+    "source_id": "cn-2838",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 10.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes fracciones es igual a 0,25?\n\nAlternativas:\nA) $\\frac{1}{8}$\nB) $\\frac{1}{5}$\nC) $\\frac{1}{4}$\nD) $\\frac{25}{10}$\n\nRespuesta correcta: C) $\\frac{1}{4}$\n\nExplicación: $\\frac{1}{4}$",
+    "source_id": "cn-2841",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 10"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe un número que esté entre 0,5 y 0,6.\nEscribe tu respuesta aquí:\n\nSolución: Por ejemplo: 0,51; 0,552, etc.",
+    "source_id": "cn-2847",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe un número que sea mayor que 2,43 y que sea menor que 2,44.\nEscribe tu respuesta aquí:\n\nSolución: Por ejemplo: 2,431; 2,4364565; etc.",
+    "source_id": "cn-2848",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es el menor?\n\nAlternativas:\nA) 0,5\nB) 0,25\nC) 0,625\nD) 0,125\n\nRespuesta correcta: D) 0,125\n\nExplicación: 0,125",
+    "source_id": "cn-2849",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números está entre 0,07 y 0,08?\n\nAlternativas:\nA) 0,00075\nB) 0,0075\nC) 0,075\nD) 0,75\n\nRespuesta correcta: C) 0,075\n\nExplicación: 0,075",
+    "source_id": "cn-2850",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es el mayor?\n\nAlternativas:\nA) 0,89\nB) 0,9\nC) 0,098\nD) 0,008\n\nRespuesta correcta: B) 0,9\n\nExplicación: 0,9",
+    "source_id": "cn-2866",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Tres amigos midieron sus estaturas y obtuvieron los siguientes valores.\nJosé: 1,08 m\nAna :1,3 m\nPedro: 1,15 m\nLas estaturas, ordenadas de menor a mayor, son:\n\nAlternativas:\nA) 1,3 < 1,08 < 1,15\nB) 1,08 < 1,15 < 1,3\nC) 1,08 < 1,3, < 1,15\nD) 1,3 < 1,15 < 1,08\n\nRespuesta correcta: B) 1,08 < 1,15 < 1,3\n\nExplicación: 1,08\n< 1,15\n< 1,\n3",
+    "source_id": "cn-2867",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 13.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En un control médico Andrea mide 1,15 m de estatura y el doctor le dice que crecio 0,25 m con respecto al control anterior.\n¿Cuanto medía Andrea en el control anterior?\n\nAlternativas:\nA) 1, 4 m\nB) 1,35 m\nC) 1,10 m\nD) 0,9 m\n\nRespuesta correcta: D) 0,9 m\n\nExplicación: 0,9 m",
+    "source_id": "cn-2869",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 13"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA05 OA 14.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente secuencia:\n$735, 625, 515, 405, ...$\n¿Qué número sigue en la secuencia, si el patrón no cambia?\n\nAlternativas:\nA) $195$\nB) $205$\nC) $295$\nD) $305$\n\nRespuesta correcta: C) $295$\n\nExplicación: Al observar la secuencia:\n$735, 625, 515, 405, ...$\nPodemos notar que cada número es el anterior menos $110$. Entonces el número que podría continuar en la secuencia es: $295$",
+    "source_id": "cn-1740",
+    "grade": "5° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA05 OA 14"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA05 OA 07.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál opción muestra fracciones equivalentes?\n$\\dfrac{8}{5}$\n$\\dfrac{1}{3}$\n$\\dfrac{3}{4}$\n$\\dfrac{1}{5}$\n\nAlternativas:\nA) $\\dfrac{5}{8}$ =\nB) $\\dfrac{7}{21}$ =\nC) $\\dfrac{12}{3}$ =\nD) $\\dfrac{5}{15}$ =\n\nRespuesta correcta: B) $\\dfrac{7}{21}$ =",
+    "source_id": "cn-1751",
+    "grade": "5° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA05 OA 07"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 5° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA05 OA 23.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ESTATURA\nEn un curso hay 25 niñas. La estatura promedio de las niñas es de 130 cm.\nExplica cómo se calcula la estatura promedio.\n\nSolución: Explicaciones que incluyan: sumar las estaturas individuales y dividir el resultado por 25.\nSumas las estaturas de todas las niñas y divides por el número de niñas.\nTomas las estaturas de todas las niñas, las sumas y las divides por la cantidad de niñas, en este caso 25.\nLa suma de todas las estaturas en la misma unidad dividida por el número de niñas.",
+    "source_id": "cn-2467",
+    "grade": "5° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA05 OA 23"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 02.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Andrés estudia en una universidad y trabaja los fines de semana para pagar sus estudios. Recibe $60 000 por cada fin de semana trabajado.\nSi trabaja 14 fines de semana, el dinero le alcanza para pagar la mitad del monto anual de su carrera. ¿Cuál es el valor del monto anual de su carrera? (Puedes usar calculadora para realizar los cálculos).\n\nAlternativas:\nA) $1 680 000\nB) $1 260 000\nC) $840 000\nD) $1 200 000\n\nRespuesta correcta: A) $1 680 000",
+    "source_id": "cn-901",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente multiplicación.\n$\\large 3,8\\cdot 7$\n¿Qué expresión es equivalente a esta multiplicación?\n\nAlternativas:\nA) $38 \\cdot 7\\cdot 10$\nB) $38 \\cdot 7\\cdot \\dfrac{1}{10}$\nC) $38\\cdot 7\\cdot \\dfrac{1}{100}$\n\nRespuesta correcta: B) $38 \\cdot 7\\cdot \\dfrac{1}{10}$\n\nExplicación: $38 \\cdot 7\\cdot \\dfrac{1}{10}$\nConviene ver que:\n$3,8=38 \\cdot \\dfrac{1}{10}$\n$3,8\\cdot 7=38\\cdot 7\\cdot \\dfrac{1}{10}$",
+    "source_id": "cn-1485",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Eduardo compró un saco de $50,4$ kg de papas y quiere empaquetar las papas en mallas de $2$ kg.\n¿Cuántas mallas necesitará?\n\nAlternativas:\nA) $70$\nB) $52$\nC) $48$\nD) $26$\n\nRespuesta correcta: D) $26$\n\nExplicación: $50,4 : 2 =25,2$ por lo que se necesita una malla más para empaquetar los 0,2 kilogramas de papas",
+    "source_id": "cn-1486",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Al resolver la siguiente ecuación\n3x - 7 = 20\n, ¿cuál es el valor de x?\n\nAlternativas:\nA) x = 3\nB) x = 4\nC) x = 7\nD) x = 9\n\nRespuesta correcta: D) x = 9\n\nExplicación: 3x - 7 = 20\n3x = 20 + 7\n3x = 27\nx = 27 : 3\nx = 9",
+    "source_id": "cn-1875",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA06 OA 18.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un paralelepípedo tiene aristas de medidas $5$ cm, $4$ cm y $7$ cm.\nSi se necesita pintar todas sus caras, ¿cuál es el área de la superficie que se debe cubrir?\n\nAlternativas:\nA) $\\ 83$ cm$^{2}$\nB) $126$ cm$^{2}$\nC) $166$ cm$^{2}$\nD) $249$ cm$^{2}$\n\nRespuesta correcta: C) $166$ cm$^{2}$\n\nExplicación: $166$ cm\n2\nEl área a cubrir corresponde con las 6 caras del paralelepípedo:\n$2 \\cdot (5$ cm $\\cdot 4\\ $cm$ + 5$cm $\\cdot 7$cm$ + 4\\ $ cm $\\cdot 7$ cm$) $\n$2 \\cdot (20$ cm$^{2} + 35$ cm$^{2} + 28$ cm$^{2})$\n$2\\cdot (83$ cm$^{2}) = 166$ cm$^{2}$",
+    "source_id": "cn-1877",
+    "grade": "6° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA06 OA 18"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es la solución de la siguiente ecuación?\n$16 - 2n = 8$\n\nAlternativas:\nA) $n=4$\nB) $n=8$\nC) $n=6$\nD) $n=2$\n\nRespuesta correcta: A) $n=4$\n\nExplicación: $n=4$\nVeamos que al resolver la ecuación obtenemos:\n$16 - 2n = 8$\n$16 - 8 = 2n$\n$8 = 2n$\n$n = 8/2$\n$n=4$",
+    "source_id": "cn-1891",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente ecuación:\n$\\large 3n - 5 = 25$\n¿Cuál de las siguientes ecuaciones es equivalente a la anterior?\n\nAlternativas:\nA) $ 3n - 5 = 2·15$\nB) $ 3n - 5 = 3·10 + 5$\nC) $ 3n - 5 = 3·10 - 5$\nD) $3n - 5 = 3·10$\n\nRespuesta correcta: C) $ 3n - 5 = 3·10 - 5$\n\nExplicación: $3n - 5 = 3·10 - 5$\nVeamos que al resolver el ejercicio obtenemos:\n$ 3n - 5 = 25 $\n$ 3n - 5 = 3 \\cdot 10 - 5 $\n$ 3n - 5 = 30 - 5$\n$ 3n - 5 = 25 $",
+    "source_id": "cn-1892",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA06 OA 18.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Luciana está pintando una caja con forma de paralelepípedo.\nSi la caja mide $30$ cm de largo, $10$ cm de ancho y $20$ cm de alto, ¿cuál es el área de la superficie de la caja?\n\nAlternativas:\nA) $1\\ 100$ cm$^{2}$\nB) $2\\ 200$ cm$^{2}$\nC) $2\\ 800$ cm$^{2}$\nD) $3\\ 000$ cm$^{2}$\n\nRespuesta correcta: B) $2\\ 200$ cm$^{2}$\n\nExplicación: Veamos que el paralelepípedo tiene lo siguiente:\n2 caras con área: $30$ cm $\\cdot 10$ cm $= 300$ cm$^{2}$ lo que en total da $600$ cm$^{2}$.\n2 caras con área: $30$ cm $\\cdot 20$ cm$ = 600$ cm$^{2}$ lo que en total da $1\\ 200$ cm$^{2}$.\n2 caras con área: $10$ cm $\\cdot 20$ cm$ = 200$ cm$^{2}$ lo que en total da $400$ cm$^{2}$.\nPor lo tanto el área total del paralelepípedo es:\n$600$ cm$^{2} + 1\\ 200$ cm$^{2} + 400$ cm$^{2} = 2\\ 200 $ cm$^{2}$",
+    "source_id": "cn-1896",
+    "grade": "6° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA06 OA 18"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Resuelve las siguientes ecuaciones. Luego, comprueba el resultado:\nA. x - 5 - 54 = 0\nB. 3y - 2y = 32\nC. 45 + 6x - 5x = 56\nD. 5a + 87 = 4a + 100\nE. 7b + 21 = 8b - 12\n\nSolución: x = 59\nB) y = 32\nC) x = 11\nD) a = 13\nE) b = 33",
+    "source_id": "cn-3244",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Resuelve las siguientes ecuaciones. Luego, comprueba el resultado.\nA. 3x = 120\nB. 72 = 8x\nC. 5x = 35\nD. 420 = 6x\nE. 5600 = 80x\n\nSolución: 40\nB) 9\nC) 7\nD) 70\nE) 70",
+    "source_id": "cn-3247",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: profundo.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Escribe y resuelve la ecuación que te ayude a resolver el siguiente problema:\n$\\ $Juanita compró cuatro lápices del mismo costo y tipo, pero no recuerda el precio de cada uno de ellos.\n$\\ $ Ella pagó con un bilette de $\\$1\\ 000$ y le dieron de vuelto \\$$360$. ¿Cuál es el precio de cada lápiz?\na) Ecuación y resolución:\nb) El precio de cada lápiz es \\$_______\n\nSolución: a) Ecuación:\n$4x + 360 = 1\\ 000$ o equivalente\nb) Respuesta: $160 (o redacción similar señalando que el precio es de 160 pesos).",
+    "source_id": "cn-3193",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Carla se demora $30$ minutos en llegar al colegio caminando, mientras que María, haciendo el mismo camino, demora $15$ minutos en bicicleta.\nEn el siguiente espacio, haz tus cálculos y determina la razón entre el tiempo que tarda Carla y el tiempo que tarda María en llegar al colegio.\n\nSolución: Establece que la razón es 2:1\nPor ejemplo:\na) $\\dfrac{30}{15}=\\dfrac{2}{1}$ o\nb)$\\dfrac{1}{2} hora :\\dfrac{1}{4} hora = \\dfrac{1}{2} \\cdot \\dfrac{4}{1}= \\dfrac{4}{2}= \\dfrac{2}{1} $",
+    "source_id": "cn-3313",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Tres amigos tienen láminas de un álbum. Pedro tiene $36$ láminas, Juan tiene $46$ y Tomás tiene $20$.\n¿Cuál es la razón entre las láminas que tiene Tomás y las láminas que tienen Juan y Pedro.\n\nAlternativas:\nA) $\\ \\ 5 : 9$\nB) $\\ \\ 6 : 11$\nC) $23 : 28$\nD) $10 : 41$\n\nRespuesta correcta: D) $10 : 41$\n\nExplicación: $10 : 41$",
+    "source_id": "cn-3314",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En una fábrica en la que trabajan hombres y mujeres, $2$ de cada $5$ trabajadores son hombres. ¿Cuánto hombres hay en la fábrica si hay $27$ mujeres?\n\nAlternativas:\nA) $18$\nB) $12$\nC) $\\ 7$\nD) $\\ 5$\n\nRespuesta correcta: A) $18$\n\nExplicación: $18$\nHay $2$ hombres por cada $5$ trabajadores, luego hay $3$ mujeres por cada $5$ trabajadores, es decir $3 : 5$.\nSi amplificamos esta razón por $9$ se obtiene la razón $27:45$, es decir, hay $27$ mujeres por cada $45$ trabajadores.\nSi hacemos la resta $45 - 27 = 18$ se concluye que hay $18$ hombres.",
+    "source_id": "cn-3315",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Dominga obtuvo $ \\$300\\ 000 $ por la venta de un notebook. Ella ahorró el $50\\%$ de la venta y gastó el $20\\%$ de lo que no ahorró en un parlante. ¿Cuánto gastó en el parlante?\n\nAlternativas:\nA) $ \\$\\ 30\\ 000$\nB) $ \\$\\ 45\\ 000$\nC) $\\$ \\ 60\\ 000$\nD) $\\$ 150\\ 000$\n\nRespuesta correcta: A) $ \\$\\ 30\\ 000$\n\nExplicación: $ \\$30\\ 000$",
+    "source_id": "cn-3319",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 05.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es equivalente a $\\dfrac{27}{6}$?\n\nAlternativas:\nA) $4\\dfrac{1}{3}$\nB) $4\\dfrac{1}{2}$\nC) $4\\dfrac{2}{3}$\nD) $4\\dfrac{5}{6}$\n\nRespuesta correcta: B) $4\\dfrac{1}{2}$\n\nExplicación: $4\\dfrac{1}{2}$",
+    "source_id": "cn-3320",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 05.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es igual a $\\dfrac{17}{8}$?\n\nAlternativas:\nA) $\\large 2$ $\\dfrac{1}{8}$\nB) $\\large 2$ $\\dfrac{3}{8}$\nC) $\\large 2$ $\\dfrac{5}{8}$\nD) $\\large 2$ $\\dfrac{7}{8}$\n\nRespuesta correcta: A) $\\large 2$ $\\dfrac{1}{8}$\n\nExplicación: $\\large 2$ $\\dfrac{1}{8}$",
+    "source_id": "cn-3321",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: superficial.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Calcula:\nA. 3,14 • 6 = _________\nB. 1,69 • 8 = _________\nC. 7,2 : 4 = _________\nD. 6,6 : 3 = _________\n\nSolución: 18,84\nB) 13,52\nC) 1,8\nD) 2,2",
+    "source_id": "cn-3322",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Lily vertió 2,6 l de jugo de limón en 4 vasos en partes iguales. ¿Cuál fue la cantidad vertida en cada vaso?\n\nSolución: 0,65 l",
+    "source_id": "cn-3323",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Si $6$ bolitas iguales pesan $2,70$ kg, ¿cuál es el peso de una bolita?\n\nAlternativas:\nA) $0,43$ kg\nB) $0,45$ kg\nC) $4,3$ kg\nD) $16,2$ kg\n\nRespuesta correcta: B) $0,45$ kg\n\nExplicación: $0,45$ kg\nPeso de 1 bolita:\n$2,70$kg $÷ 6 = 0,45$ kg",
+    "source_id": "cn-3324",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: superficial.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el resultado de multiplicar 2,58 por 100?\n\nSolución: 258",
+    "source_id": "cn-3325",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un trozo largo de bambú se corta en 7 pedazos. Cada pedazo mide 0,21 m de largo. ¿Cuál era el largo original del trozo de bambú?\n\nSolución: 0,21 • 7 = 1,47 m",
+    "source_id": "cn-3326",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 08.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ximena compró $4$ kg de harina porque quiere hacer $3$ queques. Para hacer un queque se necesita $\\dfrac {3}{4}$ kg de harina.\nSi Ximena hace los $3$ queques, ¿cuánta harina le sobrará?\n\nAlternativas:\nA) $\\large 1 \\frac{3}{8}$ kg\nB) $\\large 1 \\frac{3}{4}$ kg\nC) $\\large 2 \\frac{1}{4}$ kg\nD) $\\large 2 \\frac{3}{8}$ kg\n\nRespuesta correcta: B) $\\large 1 \\frac{3}{4}$ kg\n\nExplicación: $\\large 1 \\frac{3}{4}$ kg\nHarina usada $\\frac{3}{4}+ \\frac{3}{4}+\\frac{3}{4}=\\frac{9}{4}$\n$\\large 4-\\frac{9}{4}= \\frac{16}{4} -\\frac{9}{4} =\\frac{16-9}{4}= \\frac{7}{4} = 1\\frac{3}{4}$",
+    "source_id": "cn-3327",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Un trozo de cuerda mide $5,79$ cm de largo y se corta en $3$ pedazos del mismo tamaño.\n¿Cuánto mide cada pedazo?\n\nAlternativas:\nA) $0,79$ cm\nB) $1,93$ cm\nC) $1,737$ cm\nD) $2,79$ cm\n\nRespuesta correcta: B) $1,93$ cm\n\nExplicación: $1,93$ cm",
+    "source_id": "cn-3328",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA06 OA 19.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una caja tiene una altura de $6$ cm y tiene una base cuadrada de lado $9$ cm.\n¿Cuál es el volumen de la caja?\n\nAlternativas:\nA) $216$ cm$^{3}$\nB) $324$ cm$^{3}$\nC) $486$ cm$^{3}$\nD) $729$ cm$^{3}$\n\nRespuesta correcta: C) $486$ cm$^{3}$\n\nExplicación: $486$ cm$^{3}$\nVolumen de la caja $=6\\ $cm$ \\cdot 9\\ $cm$ \\cdot 9\\ $cm$= 6\\ $cm $\\cdot 81$ cm $^{2}= 486$ cm$^{3}$",
+    "source_id": "cn-3335",
+    "grade": "6° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA06 OA 19"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En $1500$ g de un mix de frutos secos hay $125$ g de almendras.\n¿Cuál es la razón entre los gramos de almendras y los gramos del mix?.\n\nAlternativas:\nA) $\\ 1:5$\nB) $\\ 1:6$\nC) $1:12$\n\nRespuesta correcta: C) $1:12$\n\nExplicación: $1:12$",
+    "source_id": "cn-3312",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 08.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Roberto y Jaime sa repartieron las cerezas de una canasta.\nRoberto sacó $\\dfrac{1}{3}$ de las cerezas y Jaime sacó $\\dfrac{1}{6}$ de las cerezas.\n¿Qué fracción de las cerezas quedó en la canasta?\n\nAlternativas:\nA) $\\dfrac{1}{2}$\nB) $\\dfrac{1}{3}$\nC) $\\dfrac{1}{6}$\nD) $\\dfrac{1}{12}$\n\nRespuesta correcta: A) $\\dfrac{1}{2}$\n\nExplicación: $\\dfrac{1}{2}$\nRoberto y Jaime sacaron $\\dfrac{1}{3}+\\dfrac{1}{6} =\\dfrac{2}{6}+\\dfrac{1}{6}= \\dfrac{3}{6}= \\dfrac{1}{2}$ de las cerezas del canasto. Por lo tanto, queda en la canasta la otra mitad.",
+    "source_id": "cn-2794",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 08.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Dos tercios de las personas presentes al comienzo de una reunión son hombres. Nadie se va y llegan 10 hombres y 10 mujeres a la reunión.\n¿Cuál de las siguientes afirmaciones es verdadera?\n\nAlternativas:\nA) Hay más hombres que mujeres en la reunión.\nB) Hay más mujeres que hombres en la reunión.\nC) Hay la misma cantidad de hombres que de mujeres en la reunión.\nD) Con la información entregada, no se puede saber si hay más mujeres o más hombres en la reunión.\n\nRespuesta correcta: A) Hay más hombres que mujeres en la reunión.\n\nExplicación: Hay más hombres que mujeres en la reunión.\nSi al principio de la reunión hay dos tercios de hombres quiere decir que hay más hombres que mujeres. Si llegan 10 hombres y 10 mujeres, al ser la misma cantidad, implica que siguen habiendo más hombres que mujeres.",
+    "source_id": "cn-2795",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Al dividir 15,45 : 0,003 resulta:\n\nAlternativas:\nA) 0,515\nB) 5,15\nC) 51,5\nD) 5 150\n\nRespuesta correcta: D) 5 150\n\nExplicación: 5150",
+    "source_id": "cn-2796",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 08.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una trabajadora va poniendo la uva que cosecha en un tonel. Primero llena $\\dfrac{1}{4}$ del tonel y después llena $\\dfrac{1}{8}$ más del tonel. ¿Qué fracción del tonel le queda por llenar?\n\nAlternativas:\nA) $\\dfrac{1}{8}$\nB) $\\dfrac{5}{8}$\nC) $\\dfrac{2}{12}$\nD) $\\dfrac{1}{32}$\n\nRespuesta correcta: B) $\\dfrac{5}{8}$\n\nExplicación: $\\dfrac{5}{8}$\nLo que se ha llenado del tonel es $\\dfrac{1}{4} +\\dfrac{1}{8}=\\dfrac{2}{8}+\\dfrac{1}{8}=\\dfrac{3}{8}$\nPor lo tanto, lo que le falta por llenar es $\\dfrac{5}{8}$",
+    "source_id": "cn-2798",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En una obra de teatro, $\\dfrac{3}{25}$ de las personas en el público son niños.\n¿Qué porcentaje del público corresponde a niños?\n\nAlternativas:\nA) $0,12 \\%$\nB) $0,3 \\%$\nC) $3 \\%$\nD) $12 \\%$\n\nRespuesta correcta: D) $12 \\%$\n\nExplicación: $12 \\%$",
+    "source_id": "cn-2799",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Tamara participó en un concurso y ganó $52$ de los $57$ puntos posibles.\n¿Cuál de las siguientes opciones se acerca más al porcentaje que ganó Tamara respecto del total de puntos?\n\nAlternativas:\nA) $1,1 \\%$\nB) $57 \\%$\nC) $52 \\%$\nD) $91 \\%$\n\nRespuesta correcta: D) $91 \\%$\n\nExplicación: $91 \\%$",
+    "source_id": "cn-2800",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En una escuela, el comité organizador del carnaval vendió un total de $200$ boletos para el sorteo de un gran premio.\nSusana compró suficientes boletos como para tener el $20 \\%$ de posibilidades de ganar el gran premio.\n¿Cuántos boletos compró Susana?\n\nAlternativas:\nA) $\\ 20$\nB) $\\ 40$\nC) $160$\nD) $400$\n\nRespuesta correcta: B) $\\ 40$\n\nExplicación: 40\n$\\dfrac{20}{100} \\cdot 200 = 40$\nSusana compró 40 boletos.",
+    "source_id": "cn-2801",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una familia ha reforestado $3$ hectáreas de un bosque de $15$ hectáreas.\n¿Qué porcentaje del bosque ha reforestado?\n\nAlternativas:\nA) $12\\%$\nB) $20\\%$\nC) $25\\%$\nD) $45\\%$\n\nRespuesta correcta: B) $20\\%$\n\nExplicación: $20\\%$",
+    "source_id": "cn-2803",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Se quiere dejar una propina del $15 \\%$ en una cuenta de restaurante de $\\$24\\ 990$.\n¿Cuál de las siguientes opciones es la aproximación más cercana para esta propina?\n\nAlternativas:\nA) $\\$2\\ 500$\nB) $\\$3\\ 000$\nC) $\\$3\\ 750$\nD) $\\$4\\ 500$\n\nRespuesta correcta: C) $\\$3\\ 750$\n\nExplicación: $\\$3\\ 750$",
+    "source_id": "cn-2804",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En la escuela de Sonia hay $540$ niñas y el $15 \\%$ de ellas practica ciclismo.\n¿Cuántas niñas practican ciclismo?\n\nAlternativas:\nA) $36$\nB) $54$\nC) $72$\nD) $81$\n\nRespuesta correcta: D) $81$\n\nExplicación: $81$",
+    "source_id": "cn-2807",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es la razón entre la medida de un lado de un cuadrado y su perímetro?\n\nAlternativas:\nA) $\\dfrac{1}{2}$\nB) $\\dfrac{1}{3}$\nC) $\\dfrac{4}{1}$\nD) $\\dfrac{1}{4}$\n\nRespuesta correcta: D) $\\dfrac{1}{4}$\n\nExplicación: $\\dfrac{1}{4}$",
+    "source_id": "cn-2808",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Andrea combina $5$ litros de pintura roja, $2$ litros de pintura azul y $2$ litros de pintura amarilla, para preparar un determinado color. ¿Cuál es la razón de pintura roja sobre la cantidad total de pintura?\n\nAlternativas:\nA) $\\dfrac{5}{4}$\nB) $\\dfrac{4}{9}$\nC) $\\dfrac{5}{9}$\nD) $\\dfrac{9}{4}$\n\nRespuesta correcta: C) $\\dfrac{5}{9}$\n\nExplicación: $\\dfrac{5}{9}$",
+    "source_id": "cn-2809",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Al preparar un fertilizante, un jardinero mezcla $2$ kg de nitrato, $3$ kg de fosfato y $6$ kg de potasio.\n¿Cuál es la razón de nitrato respecto a la cantidad total de fertilizante?\n\nAlternativas:\nA) $\\dfrac{2}{3}$\nB) $\\dfrac{2}{9}$\nC) $\\dfrac{2}{11}$\nD) $\\dfrac{11}{9}$\n\nRespuesta correcta: C) $\\dfrac{2}{11}$\n\nExplicación: $\\dfrac{2}{11}$",
+    "source_id": "cn-2810",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Datos y probabilidades.\n- Objetivo de aprendizaje: MA06 OA 23.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Se lanzó una moneda normal cuatro veces y cada una de las veces salió cara.\nSi la moneda no está cargada, ¿qué se espera que pase cuando se lance la moneda por quinta vez?\nsello\n.\ncara\n.\ncara\no\nsello\nindistintamente.\n\nAlternativas:\nA) Que caiga mostrando\nB) Que caiga mostrando\nC) Que caiga mostrando\nD) Se necesita más información para responder a la pregunta.\n\nRespuesta correcta: C) Que caiga mostrando\n\nExplicación: Que caiga mostrando\ncara\no\nsello\nsin tener preferencia.",
+    "source_id": "cn-2778",
+    "grade": "6° Básico",
+    "topic": "Datos y probabilidades",
+    "learning_objectives": [
+      "MA06 OA 23"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA06 OA 19.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el volumen de un cubo cuya arista es $10$ m?\n\nAlternativas:\nA) $\\ \\ 100$ m$^{3}$\nB) $\\ \\ 120$ m$^{3}$\nC) $\\ \\ 600$ m$^{3}$\nD) $1\\ 000$ m$^{3}$\n\nRespuesta correcta: D) $1\\ 000$ m$^{3}$\n\nExplicación: $1\\ 000$ m$^{3}$\nvolumen = $10$ m $\\cdot 10$ m $\\cdot 10$ m$= 1000$ m$^{3}$",
+    "source_id": "cn-2780",
+    "grade": "6° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA06 OA 19"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: respuesta abierta.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Encuentra el valor de x si:\n10x - 15 = 5x + 20\nResuelve aquí la ecuación:\n\nSolución: x = 7",
+    "source_id": "cn-2784",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "abierta"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Patrones y álgebra.\n- Objetivo de aprendizaje: MA06 OA 11.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Si 15 + 3\nx\n= 42, entonces\nx\n=\n\nAlternativas:\nA) 9\nB) 11\nC) 12\nD) 14\n\nRespuesta correcta: A) 9\n\nExplicación: 9",
+    "source_id": "cn-2788",
+    "grade": "6° Básico",
+    "topic": "Patrones y álgebra",
+    "learning_objectives": [
+      "MA06 OA 11"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 08.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una pelota de goma es lanzada desde un techo de $18$ metros de altura y rebota hasta la mitad de su altura en cada rebote. ¿Cuál es la distancia total que la pelota ha recorrido cuando toca el suelo por tercera vez?\n\nAlternativas:\nA) $31,5$ m\nB) $40,5$ m\nC) $\\ 45$ m\nD) $\\ 63$ m\n\nRespuesta correcta: C) $\\ 45$ m\n\nExplicación: 45 m\n1er bote $\\rightarrow$ $\\dfrac{1}{2} \\cdot 18= 9$\n2do rebote $\\dfrac{1}{2} \\cdot 9= 4,5$\nEl tercer rebote no lo alcanza a dar, ahi se deteniene la suma, por lo tanto la pelota recorre\n$18+9+9+4,5+4,5 =45$",
+    "source_id": "cn-2790",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 08"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Una hoja de papel tiene $0,012$ cm de espesor. ¿Cuál sería la altura de una pila de $100$ hojas de ese papel?\n\nAlternativas:\nA) $0,012$ cm\nB) $0,12$ cm\nC) $1,2$ cm\nD) $12$ cm\n\nRespuesta correcta: C) $1,2$ cm\n\nExplicación: $1,2$ cm",
+    "source_id": "cn-2791",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 05.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Qué fracción es equivalente a\n$5\\dfrac{99}{100}$\n?\n\nAlternativas:\nA) $\\dfrac{599}{100}$\nB) $\\dfrac{199}{100}$\nC) $\\dfrac{199}{500}$\nD) $\\dfrac{1499}{100}$\n\nRespuesta correcta: A) $\\dfrac{599}{100}$\n\nExplicación: $\\dfrac{599}{100}$",
+    "source_id": "cn-1741",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 05"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de las siguientes expresiones es equivalente a $\\large 2,35\\cdot8$ ?\n\nAlternativas:\nA) $\\ 235\\cdot8$\nB) $\\dfrac{235}{100}\\cdot8$\nC) $\\ 235\\cdot800$\nD) $\\dfrac{235}{100}\\cdot\\dfrac{8}{100}$\n\nRespuesta correcta: B) $\\dfrac{235}{100}\\cdot8$\n\nExplicación: $\\dfrac{235}{10}\\cdot8$\nDesarrollando podemos deducir que:\n$2,35\\cdot8=\\dfrac{235}{100}\\cdot8$",
+    "source_id": "cn-1742",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Fabián toma todos los días un medicamento con $0,42$ gramos de magnesio.\n¿Cuántos gramos de magnesio habrá consumido luego de $60$ días?\n\nAlternativas:\nA) $2,50$ gramos.\nB) $25,2$ gramos.\nC) $24,2$ gramos.\nD) $2,42$ gramos.\n\nRespuesta correcta: B) $25,2$ gramos.\n\nExplicación: $25,2$ gramos.\nSe aplica el algoritmo de la multiplicación:\n$60 \\cdot 0,42 = 25,2$",
+    "source_id": "cn-1743",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente multiplicación:\n$\\large 2,4 \\cdot 0,75$\n¿Cuál es su resultado?\n\nAlternativas:\nA) $1,580$\nB) $1,600$\nC) $1,800$\nD) $2,880$\n\nRespuesta correcta: C) $1,800$\n\nExplicación: $1,800$\n$24 \\cdot 75=1800$ y movemos la coma tres lugares.",
+    "source_id": "cn-1744",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Observa la siguiente división:\n$\\large 48 : 0,8$\n¿Cuál es su resultado?\n\nAlternativas:\nA) $0,06$\nB) $0,6$\nC) $60$\nD) $600$\n\nRespuesta correcta: C) $60$\n\nExplicación: $60$",
+    "source_id": "cn-1745",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 07.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: A Ester le regalaron $4$ bolsas con $32,4$ gramos de nueces cada una.\n¿Cuántos gramos de nueces le regalaron en total?\n\nAlternativas:\nA) $1,29$ g\nB) $12,96$ g\nC) $129,6$ g\nD) $1296$ g\n\nRespuesta correcta: C) $129,6$ g\n\nExplicación: $129,6$ g\nSe multiplica $4 \\cdot 324 = 1296$ y luego se desplaza la coma hacia la derecha según la cantidad de decimales que posean los factores, en este caso una décima.",
+    "source_id": "cn-1746",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 07"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Luis lanzó una moneda $20$ veces. Si $12$ veces salió cara, ¿cuál es el porcentaje de ocurrencia de sello?\n\nAlternativas:\nA) $60\\%$\nB) $40\\%$\nC) $16\\%$\nD) $8\\%$\n\nRespuesta correcta: B) $40\\%$\n\nExplicación: $40\\%$\nVeamos que $\\dfrac{12}{20} = 0,6=60\\%$ es el porcentaje de las veces que salga cara. Por lo tanto el $40\\%$ saldrá sello.",
+    "source_id": "cn-1749",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 02.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: El kWh es una unidad de medida que se emplea para contabilizar el consumo eléctrico que se ha realizado durante un periodo de tiempo.\nUna empresa de electricidad cobra un cargo fijo mensual de $ \\$3\\ 200$, más $ \\$106$ por cada kWh consumido.\nSi una familia gasta aproximadamente $6$ kWh diariamente, ¿cuánto pagará aproximadamente al final del mes, considerando que el mes tiene $30$ días?\n\nAlternativas:\nA) $ \\$18\\ 780$\nB) $ \\$19\\ 080$\nC) $ \\$21\\ 980$\nD) $ \\$22\\ 280$\n\nRespuesta correcta: D) $ \\$22\\ 280$\n\nExplicación: $ \\$22\\ 280$\nSe calcula la cantidad total de kWh consumidos durante el mes: $6$ kWh/día $\\cdot 30$ días = $180$ kWh.\nLuego, se calcula el costo por el consumo de energía eléctrica: $180$ kWh $\\cdot 106$/kWh = $ \\$19\\ 080$.\nFinalmente, se suman el cargo fijo mensual y el costo por el consumo de energía eléctrica: $ \\$3\\ 200 + \\$19\\ 080 = \\$ 22\\ 280$.",
+    "source_id": "cn-2468",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 02"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: En un curso de 27 estudiantes, 12 están en taller deportivo y el resto en taller de arte. ¿Cuál es la razón entre los estudiantes que están en taller de arte y el total del curso?\n\nAlternativas:\nA) $\\dfrac{9}{4}$\nB) $\\dfrac{5}{9}$\nC) $\\dfrac{3}{5}$\nD) $\\dfrac{2}{9}$\n\nRespuesta correcta: B) $\\dfrac{5}{9}$\n\nExplicación: Para conocer cuántos niños están en taller de arte realizaremos una resta entre el total del curso (27) y los que pertenecen al taller deportivo (12).\n27 - 12 = 15\nPor lo tanto, 15 niños pertenecen al taller de arte.\nPara conocer la razón entre los niños que están en taller de arte y el total del curso diremos:\n15 / 27\nLuego simplificaremos por 3 y obtendremos:\n5 / 9",
+    "source_id": "cn-2469",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 03.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: Ignacia vende alfajores artesanales y lanza una oferta de $5$ alfajores por $ \\$3\\ 000$.\nSi Diego quiere comprar $20$ alfajores, ¿cuánto deberá pagar?\n\nAlternativas:\nA) $\\$\\ 9\\ 000$\nB) $\\$12\\ 000$\nC) $\\$15\\ 000$\nD) $\\$18\\ 000$\n\nRespuesta correcta: B) $\\$12\\ 000$\n\nExplicación: $\\$12 000$\nPor $5$ alfajores se paga $ \\$3\\ 000$ pesos.\n$20$ es $4$ veces $5$.\nLuego se calcula $4$ veces $ \\$3\\ 000$ obteniendose $\\$12\\ 000$.\nLuego Ignacia deberá pagar $\\$12\\ 000$.",
+    "source_id": "cn-2470",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 03"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 04.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál de los siguientes números es equivalente con $85\\%$?\n\nAlternativas:\nA) $8,5$\nB) $0,085$\nC) $\\dfrac{17}{25}$\nD) $\\dfrac{17}{20}$\n\nRespuesta correcta: D) $\\dfrac{17}{20}$\n\nExplicación: $\\dfrac{17}{20}$\nDesarrollando obtenemos:\n$85\\%= \\dfrac{85}{100} = 17/20$",
+    "source_id": "cn-2471",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 04"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Números y operaciones.\n- Objetivo de aprendizaje: MA06 OA 05.\n- Dificultad: medio.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Entre qué números naturales se encuentra\n$2 \\dfrac{3}{5}$\n?\n\nAlternativas:\nA) Entre 0 y 2.\nB) Entre 3 y 4.\nC) Entre 1 y 2.\nD) Entre 2 y 3.\n\nRespuesta correcta: D) Entre 2 y 3.\n\nExplicación: Entre 2 y 3.\nEl número mixto es equivalente a la fracción 13/5, si hacemos la división obtenemos 2,6. Por lo tanto, este número mixto se encuentra entre los números naturales 2 y 3.",
+    "source_id": "cn-2473",
+    "grade": "6° Básico",
+    "topic": "Números y operaciones",
+    "learning_objectives": [
+      "MA06 OA 05"
+    ],
+    "difficulty": "Medio",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Geometría.\n- Objetivo de aprendizaje: MA06 OA 13.\n- Dificultad: profundo.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: ¿Cuál es el área total de la superficie de un cubo cuya arista mide 7 cm?\n$^{2}$\n\nAlternativas:\nA) 42 cm\nB) 49 cm$^{2}$\nC) 294 cm$^{2}$\nD) 298 cm$^{2}$\n\nRespuesta correcta: C) 294 cm$^{2}$\n\nExplicación: veamos que cada cara tiene un área de:\n7 $\\times$ 7 = 49 cm$^{2}$\nPor lo tanto el área total del cubo es:\n6 $\\times$ 49 cm$^{2}$ = 294 cm$^{2}$",
+    "source_id": "cn-2474",
+    "grade": "6° Básico",
+    "topic": "Geometría",
+    "learning_objectives": [
+      "MA06 OA 13"
+    ],
+    "difficulty": "Profundo",
+    "question_type": "cerrada"
+  },
+  {
+    "instruction": "Crea una pregunta original de Matemática para 6° Básico.\nRequisitos:\n- Eje: Medición.\n- Objetivo de aprendizaje: MA06 OA 18.\n- Dificultad: superficial.\n- Formato: selección múltiple.\nIncluye la respuesta correcta y una explicación breve para el docente.",
+    "response": "Pregunta: La arista de un cubo mide $3$ cm. Si la arista aumenta al doble, ¿cómo cambia la superficie total del cubo?\n\nAlternativas:\nA) Se duplica.\nB) Se triplica.\nC) Se cuadruplica.\nD) Se octuplica.\n\nRespuesta correcta: C) Se cuadruplica.\n\nExplicación: Se cuadruplica.\nSuperficie del cubo original es $6 \\cdot 3^{2}$ cm $^{2}=54$ cm $^{2}$\nSi su arista se aumenta al doble, quiere decir que la nueva arista mide $6$ cm\nPor lo tanto, su superficie será $6 \\cdot 6^{2}$ cm $^{2}=216$.cm $^{2} = 4 \\cdot 56$ cm $^{2}$",
+    "source_id": "cn-2475",
+    "grade": "6° Básico",
+    "topic": "Medición",
+    "learning_objectives": [
+      "MA06 OA 18"
+    ],
+    "difficulty": "Superficial",
+    "question_type": "cerrada"
+  }
+]

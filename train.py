@@ -49,14 +49,9 @@ def main():
         model = PeftModel.from_pretrained(model, LORA_DIR, is_trainable=False)
 
     def format_instruction(example):
-        equation = example["lEquations"][0]
-        solution = f'{example["lSolutions"][0]:g}'
         messages = [
-            {"role": "user", "content": example["sQuestion"]},
-            {
-                "role": "assistant",
-                "content": f"Ecuación: {equation}\nRespuesta: {solution}",
-            },
+            {"role": "user", "content": example["instruction"]},
+            {"role": "assistant", "content": example["response"]},
         ]
         return tokenizer.apply_chat_template(
             messages,
