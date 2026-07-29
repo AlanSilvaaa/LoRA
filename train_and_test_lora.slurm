@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=lora-train-and-test
+#SBATCH --job-name=lora
 #SBATCH --partition=L40
 #SBATCH --gpus=1
 #SBATCH --ntasks=1
@@ -8,8 +8,8 @@
 #SBATCH --time=24:00:00
 #SBATCH --mail-user=alanbsr4@gmail.com
 #SBATCH --mail-type=BEGIN,END,FAIL
-#SBATCH --output=output/slurm-%x-%j.out
-#SBATCH --error=output/slurm-%x-%j.err
+#SBATCH --output=logs/slurm-%x-%j.out
+#SBATCH --error=logs/slurm-%x-%j.err
 #SBATCH --requeue
 
 set -euo pipefail

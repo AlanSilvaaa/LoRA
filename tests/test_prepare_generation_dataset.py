@@ -1,6 +1,6 @@
 import unittest
 
-from utilities.prepare_generation_dataset import _generation_instruction, _generation_response
+from helpers.prepare_generation_dataset import _generation_instruction, _generation_response
 
 
 class GenerationDatasetTests(unittest.TestCase):
