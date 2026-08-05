@@ -31,7 +31,7 @@ those exact versions before training.
 To test the code before sending it to the cluster as a job, you can run a container and execute the training script directly inside it. This also sends a job to the cluster, but it will be interactive, and you can see the output in real-time, allowing you to debug and make changes as needed.
 
 ```bash
-srun --partition=L40 --gpus=1 --pty --container-image='nvcr.io/nvidia/pytorch:25.01-py3' --container-name='lora-int' bash
+srun --partition=L40 --gpus=1 --pty --container-image='nvcr.io/nvidia/pytorch:25.01-py3' --container-name='lora' bash
 ```
 
 ### Leave as background job
