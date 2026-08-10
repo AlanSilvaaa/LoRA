@@ -76,6 +76,20 @@ the default evaluation behavior: it runs both models for every prompt in
 The flags can also be used without a question to run only the selected model
 for every configured prompt.
 
+#### Run inference with a skill preamble
+
+`test_with_vllm_skill.py` prepends the text stored in its `skill` variable to
+each prompt and runs inference only with the original model. Replace the
+placeholder value (`Lorem ipsum`) with the desired skill instructions before
+running it:
+
+```bash
+python test_with_vllm_skill.py "Genera un ejercicio sobre autos azules"
+```
+
+When no question is provided, it processes every prompt in `TESTING_PROMPS`
+and writes the base-model results to `results.csv`.
+
 ## Commands
 
 See active jobs
