@@ -44,7 +44,12 @@ class VLLMQuestionRunner:
     def __exit__(self, exc_type, exc_value, traceback):
         self.llm.llm_engine.engine_core.shutdown()
 
-    def run_question(self, question: str) -> dict[str, str]:
+    def run_question(
+        self,
+        question: str,
+        run_original: bool = True,
+        run_finetuned: bool = True,
+    ) -> dict[str, str]:
         prompt = self.tokenizer.apply_chat_template(
             [{"role": "user", "content": question}],
             tokenize=False,
@@ -52,27 +57,33 @@ class VLLMQuestionRunner:
             enable_thinking=False,
         )
 
-        print("\nGenerating with BASE model...")
-        base_outputs = self.llm.generate([prompt], self.sampling_params)
-        base_response = base_outputs[0].outputs[0].text
+        base_response = ""
+        if run_original:
+            print("\nGenerating with BASE model...")
+            base_outputs = self.llm.generate([prompt], self.sampling_params)
+            base_response = base_outputs[0].outputs[0].text
 
-        print("Generating with LoRA adapter...")
-        lora_outputs = self.llm.generate(
-            [prompt],
-            self.sampling_params,
-            lora_request=self.lora_request,
-        )
-        lora_response = lora_outputs[0].outputs[0].text
+        lora_response = ""
+        if run_finetuned:
+            print("Generating with LoRA adapter...")
+            lora_outputs = self.llm.generate(
+                [prompt],
+                self.sampling_params,
+                lora_request=self.lora_request,
+            )
+            lora_response = lora_outputs[0].outputs[0].text
 
-        print("\n" + "=" * 50)
-        print(f"BASE {MODEL_ID} OUTPUT:")
-        print("=" * 50)
-        print(base_response)
+        if run_original:
+            print("\n" + "=" * 50)
+            print(f"BASE {MODEL_ID} OUTPUT:")
+            print("=" * 50)
+            print(base_response)
 
-        print("\n" + "=" * 50)
-        print(f"VLLM LORA OUTPUT ({LORA_DIR}):")
-        print("=" * 50)
-        print(lora_response)
+        if run_finetuned:
+            print("\n" + "=" * 50)
+            print(f"VLLM LORA OUTPUT ({LORA_DIR}):")
+            print("=" * 50)
+            print(lora_response)
 
         return {
             "prompt": question,
@@ -81,14 +92,24 @@ class VLLMQuestionRunner:
         }
 
 
-def run_question_vllm(question: str) -> dict[str, str]:
+def run_question_vllm(
+    question: str,
+    run_original: bool = True,
+    run_finetuned: bool = True,
+) -> dict[str, str]:
     with VLLMQuestionRunner() as runner:
-        return runner.run_question(question)
+        return runner.run_question(question, run_original, run_finetuned)
 
 
-def run_configured_prompts() -> list[dict[str, str]]:
+def run_configured_prompts(
+    run_original: bool = True,
+    run_finetuned: bool = True,
+) -> list[dict[str, str]]:
     with VLLMQuestionRunner() as runner:
-        results = [runner.run_question(prompt) for prompt in TESTING_PROMPS]
+        results = [
+            runner.run_question(prompt, run_original, run_finetuned)
+            for prompt in TESTING_PROMPS
+        ]
 
     rows = [
         {
@@ -114,11 +135,18 @@ def run_configured_prompts() -> list[dict[str, str]]:
 
 
 @app.command()
-def main(question: str | None = typer.Argument(None, help="Question to send to the model")):
+def main(
+    original: bool = typer.Option(False, "--original", help="Run the original model"),
+    finetunned: bool = typer.Option(False, "--finetunned", help="Run the fine-tuned model"),
+    question: str | None = typer.Argument(None, help="Question to send to the model"),
+):
+    run_original = original or not (original or finetunned)
+    run_finetuned = finetunned or not (original or finetunned)
+
     if question is None:
-        run_configured_prompts()
+        run_configured_prompts(run_original, run_finetuned)
     else:
-        run_question_vllm(question)
+        run_question_vllm(question, run_original, run_finetuned)
 
 
 if __name__ == "__main__":

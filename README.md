@@ -42,6 +42,40 @@ Once you are satisfied with the code and want to run it as a background job, you
 sbatch train_and_test_lora.slurm
 ```
 
+### Run inference
+
+Inference uses vLLM and can compare the original model with the LoRA fine-tuned
+model. Run both models on one question by omitting the model-selection flags:
+
+```bash
+python test_with_vllm.py "Genera un ejercicio sobre autos azules"
+```
+
+Use `--original` to run only the original model:
+
+```bash
+python test_with_vllm.py --original "Genera un ejercicio sobre autos azules"
+```
+
+Use `--finetunned` to run only the LoRA fine-tuned model:
+
+```bash
+python test_with_vllm.py --finetunned "Genera un ejercicio sobre autos azules"
+```
+
+Both flags can be provided explicitly to run both models:
+
+```bash
+python test_with_vllm.py --original --finetunned "Genera un ejercicio sobre autos azules"
+```
+
+When no question or model-selection flags are provided, the script preserves
+the default evaluation behavior: it runs both models for every prompt in
+`TESTING_PROMPS` from `config.py` and writes the results to `results.csv`.
+
+The flags can also be used without a question to run only the selected model
+for every configured prompt.
+
 ## Commands
 
 See active jobs
