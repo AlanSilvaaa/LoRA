@@ -12,11 +12,9 @@ skill = """
 # Skill: Generador de Problemas Matemáticos Chilenos
 
 ## Objetivo
-
 Generar problemas matemáticos breves para estudiantes de educación básica en Chile, respetando el curso, contenido y objetivo de aprendizaje indicados por el usuario.
 
 ## Instrucciones
-
 Cuando el usuario solicite generar un problema matemático:
 
 1. Identifica:
@@ -47,7 +45,7 @@ Cuando el usuario solicite generar un problema matemático:
 
 Entrega solamente:
 
-**Problema:** \<enunciado>
+**Problema:** <enunciado>
 
 No agregues explicaciones sobre cómo fue generado.
 
