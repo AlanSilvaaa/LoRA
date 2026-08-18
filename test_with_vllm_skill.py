@@ -32,7 +32,10 @@ def write_skill_results_csv(
 
     with RESULTS_PATH.open("a", newline="", encoding="utf-8") as csv_file:
         writer = csv.DictWriter(
-            csv_file, fieldnames=RESULTS_FIELDNAMES, lineterminator="\n"
+            csv_file,
+            fieldnames=RESULTS_FIELDNAMES,
+            lineterminator="\n",
+            quoting=csv.QUOTE_ALL,
         )
         if not file_exists:
             writer.writeheader()
@@ -67,6 +70,9 @@ class VLLMQuestionRunner:
         self.llm.llm_engine.engine_core.shutdown()
 
     def run_question(self, question: str) -> dict[str, str]:
+        question = "\n".join(
+            line.strip() for line in question.replace("\\n", "\n").splitlines()
+        )
         question_with_skill = f"{self.skill}\n\n{question}"
         prompt = self.tokenizer.apply_chat_template(
             [{"role": "user", "content": question_with_skill}],

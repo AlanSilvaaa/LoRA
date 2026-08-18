@@ -1,3 +1,11 @@
-datetime,skill_path,model_id,question,answer
-2026-08-18T01:31:45.821740+00:00,skills/feedback/skill_1.md,HuggingFaceTB/SmolLM3-3B,Curso: 2° básico \n Problema: Martina tiene 13 lápices y regala 5 ¿Cuántos lápices le quedan a Martina? \n Respuesta correcta: 8 \n Respuesta alumno: 18 \n Tipo de error: operación incorrecta \n Detalle: utilizó suma en vez de resta,"Si Martina regala 5 lápices, ¿qué hace a su cantidad de lápices? ¿Aumenta o disminuye?"
-2026-08-18T01:31:45.821740+00:00,skills/feedback/skill_1.md,HuggingFaceTB/SmolLM3-3B,Curso: 2° básico \n Problema: Martina tiene 13 lápices y regala 5 ¿Cuántos lápices le quedan a Martina? \n Respuesta correcta: 8 \n Respuesta alumno: 18,"Si Martina regala 5 lápices, ¿qué hace a su cantidad de lápices? ¿Aumenta o disminuye?"
+"datetime","skill_path","model_id","question","answer"
+"2026-08-18T01:31:45.821740+00:00","skills/feedback/skill_1.md","HuggingFaceTB/SmolLM3-3B","Curso: 2° básico
+Problema: Martina tiene 13 lápices y regala 5 ¿Cuántos lápices le quedan a Martina?
+Respuesta correcta: 8
+Respuesta alumno: 18
+Tipo de error: operación incorrecta
+Detalle: utilizó suma en vez de resta","Si Martina regala 5 lápices, ¿qué hace a su cantidad de lápices? ¿Aumenta o disminuye?"
+"2026-08-18T01:31:45.821740+00:00","skills/feedback/skill_1.md","HuggingFaceTB/SmolLM3-3B","Curso: 2° básico
+Problema: Martina tiene 13 lápices y regala 5 ¿Cuántos lápices le quedan a Martina?
+Respuesta correcta: 8
+Respuesta alumno: 18","Si Martina regala 5 lápices, ¿qué hace a su cantidad de lápices? ¿Aumenta o disminuye?"
