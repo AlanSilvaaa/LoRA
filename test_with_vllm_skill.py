@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime, timezone
 from pathlib import Path
 
 import typer
@@ -10,17 +11,18 @@ from helpers.env_utils import load_repo_env
 
 app = typer.Typer()
 RESULTS_PATH = Path("results_skill.csv")
-RESULTS_FIELDNAMES = ["skill_path", "prompt", "model_id", "question", "answer"]
+RESULTS_FIELDNAMES = ["datetime", "skill_path", "model_id", "question", "answer"]
 
 
 def write_skill_results_csv(
     results: list[dict[str, str]], skill_path: Path
 ) -> Path:
     file_exists = RESULTS_PATH.exists()
+    executed_at = datetime.now(timezone.utc).isoformat()
     rows = [
         {
+            "datetime": executed_at,
             "skill_path": str(skill_path),
-            "prompt": result["prompt"],
             "model_id": MODEL_ID,
             "question": result["question"],
             "answer": result["answer"],
@@ -29,7 +31,9 @@ def write_skill_results_csv(
     ]
 
     with RESULTS_PATH.open("a", newline="", encoding="utf-8") as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=RESULTS_FIELDNAMES)
+        writer = csv.DictWriter(
+            csv_file, fieldnames=RESULTS_FIELDNAMES, lineterminator="\n"
+        )
         if not file_exists:
             writer.writeheader()
         writer.writerows(rows)
@@ -81,7 +85,6 @@ class VLLMQuestionRunner:
         print(response)
 
         return {
-            "prompt": prompt,
             "question": question,
             "answer": response,
         }
